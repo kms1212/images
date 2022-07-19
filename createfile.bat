@@ -1,0 +1,1 @@
+notepad %1.caption.txt
