@@ -49,8 +49,8 @@ for sccode in os.listdir(currentpath):
                                 break
 
                         resultfile.write('    {\n')
-                        resultfile.write('        "text": "' + string + '"\n')
+                        resultfile.write('        "text": "' + string + '",\n')
                         resultfile.write('        "label": ""\n')
                         resultfile.write('    },\n')
-
-        resultfile.write(']\n')
+        resultfile.seek(resultfile.tell() - 2, os.SEEK_SET)
+        resultfile.write('\n]\n')
