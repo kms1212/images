@@ -1,11 +1,11 @@
 [
     {
         "text": "백미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "팽이버섯미역국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "중국식오이무침",
@@ -25,7 +25,7 @@
     },
     {
         "text": "쇠고기채소죽",
-        "label": ""
+        "label": "porridge"
     },
     {
         "text": "줄무늬감자튀김",
