@@ -25,7 +25,7 @@
     },
     {
         "text": "순대돼지국밥",
-        "label": "rice"
+        "label": "soup"
     },
     {
         "text": "소시지야채볶음",
@@ -189,7 +189,7 @@
     },
     {
         "text": "사과주스",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "오이피클",
@@ -305,7 +305,7 @@
     },
     {
         "text": "탕수육",
-        "label": "soup"
+        "label": ""
     },
     {
         "text": "깍두기",
@@ -369,7 +369,7 @@
     },
     {
         "text": "스위티자몽주스",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "혼합잡곡밥",
@@ -441,7 +441,7 @@
     },
     {
         "text": "떡볶이",
-        "label": "rice_cake"
+        "label": ""
     },
     {
         "text": "순대/막장",
@@ -505,7 +505,7 @@
     },
     {
         "text": "소떡소떡꼬지",
-        "label": "rice_cake"
+        "label": ""
     },
     {
         "text": "섞박지",
@@ -517,7 +517,7 @@
     },
     {
         "text": "버섯떡불고기",
-        "label": "rice_cake"
+        "label": ""
     },
     {
         "text": "순두부찌개",
@@ -621,7 +621,7 @@
     },
     {
         "text": "우유",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "시리얼",
@@ -765,19 +765,19 @@
     },
     {
         "text": "무조미김",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "치킨버거",
-        "label": ""
+        "label": "bread"
     },
     {
         "text": "감자튀김/케찹",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "우유",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "시리얼",
@@ -893,7 +893,7 @@
     },
     {
         "text": "춘천막국수",
-        "label": "soup"
+        "label": "noodle"
     },
     {
         "text": "팽이된장국",
@@ -913,7 +913,7 @@
     },
     {
         "text": "육개장",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "돈육김치두부구이",
@@ -989,7 +989,7 @@
     },
     {
         "text": "맛김",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "발아현미밥",
@@ -1045,7 +1045,7 @@
     },
     {
         "text": "탕수육",
-        "label": "soup"
+        "label": ""
     },
     {
         "text": "깍두기",
@@ -1061,7 +1061,7 @@
     },
     {
         "text": "해물볶음우동-대",
-        "label": ""
+        "label": "noodle"
     },
     {
         "text": "감자고로케",
@@ -1097,11 +1097,11 @@
     },
     {
         "text": "해물볶음우동-대",
-        "label": ""
+        "label": "noodle"
     },
     {
         "text": "쥬시쿨",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "단무지",
@@ -1117,7 +1117,7 @@
     },
     {
         "text": "닭다리백숙",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "미트볼야채볶음",
@@ -1145,7 +1145,7 @@
     },
     {
         "text": "한입꿔바로우탕수육",
-        "label": "soup"
+        "label": ""
     },
     {
         "text": "단무지",
@@ -1157,7 +1157,7 @@
     },
     {
         "text": "육개장",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "감자채볶음",
@@ -1181,7 +1181,7 @@
     },
     {
         "text": "감자튀김/케찹",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "함박에그스테이크",
@@ -1257,7 +1257,7 @@
     },
     {
         "text": "돼지고기국수",
-        "label": "soup"
+        "label": "noodle"
     },
     {
         "text": "김말이만두강정",
@@ -1273,7 +1273,7 @@
     },
     {
         "text": "탄탄멘",
-        "label": ""
+        "label": "noodle"
     },
     {
         "text": "단무지",
@@ -1297,7 +1297,7 @@
     },
     {
         "text": "탕수육",
-        "label": "soup"
+        "label": ""
     },
     {
         "text": "배추김치",
@@ -1309,7 +1309,7 @@
     },
     {
         "text": "미니떡갈비조림",
-        "label": "rice_cake"
+        "label": ""
     },
     {
         "text": "참치마요덮밥",
@@ -1321,7 +1321,7 @@
     },
     {
         "text": "사과주스",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "숯불양념치밥",
@@ -1333,7 +1333,7 @@
     },
     {
         "text": "탕수만두",
-        "label": "soup"
+        "label": ""
     },
     {
         "text": "깍두기",
