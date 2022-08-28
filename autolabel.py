@@ -1,7 +1,7 @@
 import json
 import os
 
-filename = "result/2022-01-d.txt"
+filename = "result/2022-01-l.json"
 
 class MealText:
     def __init__(self, text, label):
@@ -49,7 +49,7 @@ for data in jsdata:
         mealtext.label = 'noodle'
     elif '국수' in mealtext.text:
         mealtext.label = 'noodle'
-    elif '김' in mealtext.text:
+    elif '김' in mealtext.text and '김치' not in mealtext.text:
         mealtext.label = 'processed'
     elif '떡' in mealtext.text:
         mealtext.label = 'rice_cake'
@@ -63,6 +63,8 @@ for data in jsdata:
         mealtext.label = 'bread'
     elif '케잌' in mealtext.text:
         mealtext.label = 'bread'
+    else:
+        mealtext.label = ''
 
     wf.write(mealtext.to_json())
 wf.seek(wf.tell() - 2, os.SEEK_SET)
