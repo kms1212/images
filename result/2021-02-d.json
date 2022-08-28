@@ -33,19 +33,19 @@
     },
     {
         "text": "치아바타샌드위치",
-        "label": ""
+        "label": "bread"
     },
     {
         "text": "피크닉",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "옥수수크림스프",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "셀프불고기버거",
-        "label": ""
+        "label": "bread"
     },
     {
         "text": "감자튀김&케첩",
@@ -65,7 +65,7 @@
     },
     {
         "text": "스팸마요덮밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "두부된장국",
@@ -93,7 +93,7 @@
     },
     {
         "text": "들깨무채국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "모듬어묵조림",
@@ -141,7 +141,7 @@
     },
     {
         "text": "닭개장",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "수제소시지볶음",
@@ -161,7 +161,7 @@
     },
     {
         "text": "옥수수스프",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "비타민샐러드",
@@ -245,7 +245,7 @@
     },
     {
         "text": "키위푸딩",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥",
@@ -293,7 +293,7 @@
     },
     {
         "text": "도시락김",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥",
@@ -365,7 +365,7 @@
     },
     {
         "text": "닭개장",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "깻잎지무침",
@@ -453,7 +453,7 @@
     },
     {
         "text": "투움바파스타",
-        "label": ""
+        "label": "noodle"
     },
     {
         "text": "유부장국",
@@ -465,7 +465,7 @@
     },
     {
         "text": "치즈미트파이",
-        "label": ""
+        "label": "bread"
     },
     {
         "text": "깍두기",
@@ -477,7 +477,7 @@
     },
     {
         "text": "어묵우동",
-        "label": ""
+        "label": "noodle"
     },
     {
         "text": "마카로니샐러드",
@@ -497,7 +497,7 @@
     },
     {
         "text": "짬뽕수제비",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "과일샐러드",
@@ -521,7 +521,7 @@
     },
     {
         "text": "돼지국밥다대기",
-        "label": "souo"
+        "label": "soup"
     },
     {
         "text": "부추겉절이",
@@ -557,7 +557,7 @@
     },
     {
         "text": "도시락김",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥",
@@ -581,7 +581,7 @@
     },
     {
         "text": "도시락김",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥",
@@ -653,11 +653,11 @@
     },
     {
         "text": "크림스프",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "페스츄리샌드위치",
-        "label": ""
+        "label": "bread"
     },
     {
         "text": "콘샐러드",
@@ -669,7 +669,7 @@
     },
     {
         "text": "쿨피스",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥",
@@ -813,7 +813,7 @@
     },
     {
         "text": "돼지국밥&다대기",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "부추겉절이",
@@ -829,7 +829,7 @@
     },
     {
         "text": "망고주스",
-        "label": "fruit"
+        "label": "processed"
     },
     {
         "text": "백미밥",
@@ -837,11 +837,11 @@
     },
     {
         "text": "돼지국밥&다대기",
-        "label": "rice"
+        "label": "soup"
     },
     {
         "text": "부추겉절이",
-        "label": "rice"
+        "label": ""
     },
     {
         "text": "짬뽕군만두",
@@ -861,7 +861,7 @@
     },
     {
         "text": "부대찌개",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "돈육강정",
@@ -877,7 +877,7 @@
     },
     {
         "text": "도시락김",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥",
@@ -905,7 +905,7 @@
     },
     {
         "text": "오리고기김치볶음밥&계란프라이",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "어묵국",
