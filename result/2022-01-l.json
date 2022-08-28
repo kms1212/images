@@ -5,23 +5,23 @@
     },
     {
         "text": "백미밥-소",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "비비바락국수",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "맑은콩나물국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "기장밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "간장등뼈찜",
@@ -41,11 +41,11 @@
     },
     {
         "text": "발아현미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "떡국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "애호박버섯볶음",
@@ -57,15 +57,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "소머리국밥/소면",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "고등어무조림",
@@ -81,11 +81,11 @@
     },
     {
         "text": "혼합잡곡밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "왕만두국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "감자채볶음",
@@ -97,19 +97,19 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "비빔김밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "가쓰오장국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "떡볶이",
-        "label": ""
+        "label": "rice_cake"
     },
     {
         "text": "고구마치즈볼",
@@ -117,15 +117,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "발아현미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "닭곰탕",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "삼색계란찜",
@@ -137,15 +137,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "발아현미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "북어콩나물국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "시금치나물",
@@ -157,15 +157,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "삼색나물비빔밥/약고추장",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "두부된장국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "오리불고기",
@@ -173,19 +173,19 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "초코수리취떡",
-        "label": ""
+        "label": "rice_cake"
     },
     {
         "text": "떡갈비버거",
-        "label": ""
+        "label": "rice_cake"
     },
     {
         "text": "김치우동",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "어니언링/케찹",
@@ -197,27 +197,27 @@
     },
     {
         "text": "불고기덮밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "쫄면야채무침&만두",
-        "label": ""
+        "label": "noodle"
     },
     {
         "text": "쑥냉이된장국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "초계국수",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "두가지맛왕만두",
@@ -229,19 +229,19 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "발아현미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "쫄면야채무침",
-        "label": ""
+        "label": "noodle"
     },
     {
         "text": "김치콩나물국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "고구마치즈돈까스/소스",
@@ -253,11 +253,11 @@
     },
     {
         "text": "발아현미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "떡국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "크래미샐러드",
@@ -273,7 +273,7 @@
     },
     {
         "text": "팽이된장국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "그린샐러드/파인애플D",
@@ -281,39 +281,39 @@
     },
     {
         "text": "김말이만두강정",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "통붕장어덮밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "돈육고추장찌개",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "닭꼬들목살덮밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "회오리감자튀김",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "순대돼지국밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "부추생채",
@@ -321,7 +321,7 @@
     },
     {
         "text": "참치김치두부구이",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "섞박지",
@@ -329,7 +329,7 @@
     },
     {
         "text": "두부미역장국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "고등어무조림",
@@ -349,11 +349,11 @@
     },
     {
         "text": "백미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "닭곰탕",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "너비아니/부추생채",
@@ -365,11 +365,11 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "크림스프",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "함박스파게티",
@@ -389,11 +389,11 @@
     },
     {
         "text": "검정쌀밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "땡초시락국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "메추리알곤약조림",
@@ -409,11 +409,11 @@
     },
     {
         "text": "보리밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "돈육고추장찌개",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "환어묵볶음",
@@ -425,11 +425,11 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "보리밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "따뜻한묵사발",
@@ -441,19 +441,19 @@
     },
     {
         "text": "고구마맛탕",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "보리밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "두부된장국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "콩나물파절이",
@@ -465,19 +465,19 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "버섯떡불고기",
-        "label": ""
+        "label": "rice_cake"
     },
     {
         "text": "버섯콩나물밥/달래양념장",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "강된장찌개",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "무생채",
@@ -485,7 +485,7 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "피칸파이",
@@ -493,7 +493,7 @@
     },
     {
         "text": "백미밥-소",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "냉메밀소바",
@@ -501,7 +501,7 @@
     },
     {
         "text": "떡볶이",
-        "label": ""
+        "label": "rice_cake"
     },
     {
         "text": "등심돈까스",
@@ -513,11 +513,11 @@
     },
     {
         "text": "발아현미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "등뼈감자탕",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "콩나물무침",
@@ -529,15 +529,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "혼합잡곡밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "소고기미역국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "실곤약초무침",
@@ -549,7 +549,7 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "뻥이요",
@@ -557,11 +557,11 @@
     },
     {
         "text": "보리밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "맑은소고기무국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "감자샐러드",
@@ -573,15 +573,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "혼합잡곡밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "소고기미역국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "돼지갈비찜",
@@ -593,19 +593,19 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "미니소시지빵",
-        "label": ""
+        "label": "bread"
     },
     {
         "text": "오리훈제볶음밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "감자수제비국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "환어묵볶음",
@@ -617,11 +617,11 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "기장밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "맑은굴림만두전골",
@@ -637,15 +637,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "보리밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "북어무국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "코울슬로",
@@ -657,15 +657,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "검정쌀밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "두부미역장국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "돼지갈비찜",
@@ -673,19 +673,19 @@
     },
     {
         "text": "고구마맛탕",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "보리밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "땡초시락국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "닭데리야끼구이",
@@ -701,15 +701,15 @@
     },
     {
         "text": "무조미김",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "혼합잡곡밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "소고기미역국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "숙주당근나물",
@@ -717,7 +717,7 @@
     },
     {
         "text": "김치오리볶음",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "깍두기",
@@ -725,31 +725,31 @@
     },
     {
         "text": "떡또아",
-        "label": ""
+        "label": "rice_cake"
     },
     {
         "text": "계란야채볶음밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "쌀국수",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "탕수만두",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "찜닭덮밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "단배추된장국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "콘크러스트피자",
@@ -761,11 +761,11 @@
     },
     {
         "text": "혼합잡곡밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "소고기우거지국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "마늘쫑무침",
@@ -777,15 +777,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "게살계란탕",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "치커리사과생채",
@@ -797,19 +797,19 @@
     },
     {
         "text": "탕수육",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "혼합잡곡밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "북어무국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "오리불고기",
@@ -821,15 +821,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "하이라이스소스",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "닭가슴살퀘사디아",
@@ -841,15 +841,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥-소",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "잔치국수",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "간장어묵조림",
@@ -861,11 +861,11 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "닭다리백숙",
@@ -881,11 +881,11 @@
     },
     {
         "text": "기장밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "두부된장국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "콩나물파절이",
@@ -897,15 +897,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "발아현미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "순두부짬뽕국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "돈육부추볶음",
@@ -917,15 +917,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "발아현미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "꽃게탕",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "순살닭고구마조림",
@@ -937,23 +937,23 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "발아현미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "샐러드파스타",
-        "label": ""
+        "label": "noodle"
     },
     {
         "text": "돈육김치찌개",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "생선튀김",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "깍두기",
@@ -961,11 +961,11 @@
     },
     {
         "text": "혼합잡곡밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "맑은동태탕",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "상추깻잎겉절이",
@@ -973,7 +973,7 @@
     },
     {
         "text": "김치오리볶음",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "깍두기",
@@ -981,11 +981,11 @@
     },
     {
         "text": "보리밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "두부미역장국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "치커리토마토무침",
@@ -993,7 +993,7 @@
     },
     {
         "text": "돈사태김치찜",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "깍두기",
@@ -1001,11 +1001,11 @@
     },
     {
         "text": "삼색나물비빔밥/약고추장",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "전주식콩나물국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "한방돼지갈비찜",
@@ -1017,11 +1017,11 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "카레소스",
@@ -1037,19 +1037,19 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "보리밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "맑은아귀탕",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "돈육김치볶음",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "어묵잡채",
@@ -1061,11 +1061,11 @@
     },
     {
         "text": "참치새싹비빔밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "곤약탕국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "멸치해바라기씨볶음",
@@ -1077,15 +1077,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "발아현미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "매콤소고기무국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "간장어묵조림",
@@ -1101,11 +1101,11 @@
     },
     {
         "text": "발아현미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "소고기미역국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "애호박버섯볶음",
@@ -1117,7 +1117,7 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "쿠키앤크림비요뜨",
@@ -1125,11 +1125,11 @@
     },
     {
         "text": "보리밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "맑은동태탕",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "깻잎순나물",
@@ -1141,15 +1141,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "발아현미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "두부된장국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "상추쌈/쌈장",
@@ -1161,15 +1161,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "순두부찌개",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "치킨텐더샐러드",
@@ -1185,11 +1185,11 @@
     },
     {
         "text": "백미밥-소",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "투움바파스타",
-        "label": ""
+        "label": "noodle"
     },
     {
         "text": "치킨텐더샐러드",
@@ -1205,11 +1205,11 @@
     },
     {
         "text": "백미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "옥수수스프",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "푸실리토마토소스볶음",
@@ -1225,7 +1225,7 @@
     },
     {
         "text": "백미밥-소",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "돈코츠라멘",
@@ -1237,7 +1237,7 @@
     },
     {
         "text": "어향새우가지튀김",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "깍두기",
@@ -1245,7 +1245,7 @@
     },
     {
         "text": "백미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "카프레제샐러드",
@@ -1253,7 +1253,7 @@
     },
     {
         "text": "돈등뼈사태김치찜",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "피쉬앤칩스",
@@ -1261,15 +1261,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "검정쌀밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "김치수제비국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "멸치볶음",
@@ -1285,11 +1285,11 @@
     },
     {
         "text": "보리밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "강된장찌개",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "오이고추된장박이",
@@ -1297,11 +1297,11 @@
     },
     {
         "text": "김치제육볶음&두부",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "돈육간장불고기",
@@ -1309,11 +1309,11 @@
     },
     {
         "text": "혼합잡곡밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "떡국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "고추장계란조림",
@@ -1321,15 +1321,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "하이라이스소스",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "닭가슴살퀘사디아",
@@ -1341,15 +1341,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "보리밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "땡초시락국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "미니바베큐구이",
@@ -1361,15 +1361,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "발아현미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "감자양파스프",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "푸실리토마토소스볶음",
@@ -1385,11 +1385,11 @@
     },
     {
         "text": "기장밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "등뼈감자탕",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "맛살샐러드",
@@ -1405,7 +1405,7 @@
     },
     {
         "text": "보리밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "육개장",
@@ -1425,11 +1425,11 @@
     },
     {
         "text": "보리밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "맑은소고기무국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "돼지갈비찜",
@@ -1441,11 +1441,11 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥-소",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "짜계치",
@@ -1465,19 +1465,19 @@
     },
     {
         "text": "발아현미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "곤약탕국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "김치닭볶음",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "고구마맛탕",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "깍두기",
@@ -1485,11 +1485,11 @@
     },
     {
         "text": "혼합잡곡밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "복주머니어묵국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "쌈무/깻잎쌈/마요네즈",
@@ -1501,15 +1501,15 @@
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "발아현미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "참치김치찌개",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "파채불고기",
@@ -1525,23 +1525,23 @@
     },
     {
         "text": "쪽파계란국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "낙곱새비빔밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "닭꼬치튀김",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "백미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "오이양파무침",
@@ -1565,15 +1565,15 @@
     },
     {
         "text": "혼합잡곡밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "쫄면야채무침",
-        "label": ""
+        "label": "noodle"
     },
     {
         "text": "땡초시락국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "치킨까스/소스",
@@ -1585,15 +1585,15 @@
     },
     {
         "text": "발아현미밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "햄부대찌개",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "모닝빵감자샌드위치",
-        "label": ""
+        "label": "bread"
     },
     {
         "text": "삼치데리야끼구이",
@@ -1605,15 +1605,15 @@
     },
     {
         "text": "에비동[새우튀김덮밥]",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "돈육김치찌개",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "미니떡갈비조림",
-        "label": ""
+        "label": "rice_cake"
     },
     {
         "text": "그린샐러드/파인애플D",
@@ -1625,11 +1625,11 @@
     },
     {
         "text": "검정쌀밥",
-        "label": ""
+        "label": "rice"
     },
     {
         "text": "감자옹심이국",
-        "label": ""
+        "label": "soup"
     },
     {
         "text": "무생채",
@@ -1637,10 +1637,10 @@
     },
     {
         "text": "돈육김치두부구이",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "배추김치",
-        "label": ""
+        "label": "processed"
     }
 ]
