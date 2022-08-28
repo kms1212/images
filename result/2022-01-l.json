@@ -65,7 +65,7 @@
     },
     {
         "text": "소머리국밥/소면",
-        "label": "rice"
+        "label": "noodle"
     },
     {
         "text": "고등어무조림",
@@ -109,7 +109,7 @@
     },
     {
         "text": "떡볶이",
-        "label": "rice_cake"
+        "label": ""
     },
     {
         "text": "고구마치즈볼",
@@ -181,7 +181,7 @@
     },
     {
         "text": "떡갈비버거",
-        "label": "rice_cake"
+        "label": "bread"
     },
     {
         "text": "김치우동",
@@ -217,7 +217,7 @@
     },
     {
         "text": "초계국수",
-        "label": "soup"
+        "label": "noodle"
     },
     {
         "text": "두가지맛왕만두",
@@ -489,7 +489,7 @@
     },
     {
         "text": "피칸파이",
-        "label": ""
+        "label": "bread"
     },
     {
         "text": "백미밥-소",
@@ -501,7 +501,7 @@
     },
     {
         "text": "떡볶이",
-        "label": "rice_cake"
+        "label": ""
     },
     {
         "text": "등심돈까스",
@@ -673,7 +673,7 @@
     },
     {
         "text": "고구마맛탕",
-        "label": "soup"
+        "label": ""
     },
     {
         "text": "배추김치",
@@ -701,7 +701,7 @@
     },
     {
         "text": "무조미김",
-        "label": ""
+        "label": "processed"
     },
     {
         "text": "혼합잡곡밥",
@@ -725,7 +725,7 @@
     },
     {
         "text": "떡또아",
-        "label": "rice_cake"
+        "label": "processed"
     },
     {
         "text": "계란야채볶음밥",
@@ -733,7 +733,7 @@
     },
     {
         "text": "쌀국수",
-        "label": "soup"
+        "label": "noodle"
     },
     {
         "text": "탕수만두",
@@ -753,7 +753,7 @@
     },
     {
         "text": "콘크러스트피자",
-        "label": ""
+        "label": "bread"
     },
     {
         "text": "깍두기",
@@ -797,7 +797,7 @@
     },
     {
         "text": "탕수육",
-        "label": "soup"
+        "label": ""
     },
     {
         "text": "배추김치",
@@ -1197,7 +1197,7 @@
     },
     {
         "text": "브라운브레드/초코쨈",
-        "label": ""
+        "label": "bread"
     },
     {
         "text": "오이피클",
@@ -1449,7 +1449,7 @@
     },
     {
         "text": "짜계치",
-        "label": ""
+        "label": "noodle"
     },
     {
         "text": "환어묵볶음",
