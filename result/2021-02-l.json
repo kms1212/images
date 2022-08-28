@@ -49,7 +49,7 @@
     },
     {
         "text": "파래김&참기름장",
-        "label": "processed"
+        "label": ""
     },
     {
         "text": "전복죽",
@@ -65,7 +65,7 @@
     },
     {
         "text": "회오리감자튀김",
-        "label": "processed"
+        "label": ""
     },
     {
         "text": "배추김치",
@@ -665,7 +665,7 @@
     },
     {
         "text": "김말이튀김",
-        "label": "processed"
+        "label": ""
     },
     {
         "text": "깍두기",
@@ -733,7 +733,7 @@
     },
     {
         "text": "맛감자튀김",
-        "label": "processed"
+        "label": ""
     },
     {
         "text": "사과주스",
@@ -1025,7 +1025,7 @@
     },
     {
         "text": "맛살튀김&칠리소스",
-        "label": "processed"
+        "label": ""
     },
     {
         "text": "배추김치",
@@ -1037,7 +1037,7 @@
     },
     {
         "text": "모듬감자튀김",
-        "label": "processed"
+        "label": ""
     },
     {
         "text": "꼬르동블루먹물햄버거",
@@ -1137,7 +1137,7 @@
     },
     {
         "text": "김말이튀김",
-        "label": "processed"
+        "label": ""
     },
     {
         "text": "배추김치",
@@ -1357,7 +1357,7 @@
     },
     {
         "text": "명란김",
-        "label": "processed"
+        "label": ""
     },
     {
         "text": "카레라이스",
@@ -1537,7 +1537,7 @@
     },
     {
         "text": "웨지감자튀김",
-        "label": "processed"
+        "label": ""
     },
     {
         "text": "깍두기",

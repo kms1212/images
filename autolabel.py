@@ -1,7 +1,7 @@
 import json
 import os
 
-filename = "result/2022-01-l.json"
+filename = "result/2021-02-l.json"
 
 class MealText:
     def __init__(self, text, label):
@@ -49,8 +49,6 @@ for data in jsdata:
         mealtext.label = 'noodle'
     elif '국수' in mealtext.text:
         mealtext.label = 'noodle'
-    elif '김' in mealtext.text and '김치' not in mealtext.text:
-        mealtext.label = 'processed'
     elif '떡' in mealtext.text:
         mealtext.label = 'rice_cake'
     elif '설기' in mealtext.text:
