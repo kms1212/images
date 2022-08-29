@@ -1,7 +1,7 @@
 import json
 import os
 
-filename = "result/2021-02-l.json"
+filename = "result/2021-02-lㄹ.json"
 
 class MealText:
     def __init__(self, text, label):
