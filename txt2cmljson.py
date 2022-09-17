@@ -2,6 +2,7 @@ import os
 import re
 
 path = './images/'
+path2 = './additional'
 currentpath = path
 
 for sccode in os.listdir(currentpath):
@@ -14,7 +15,7 @@ for sccode in os.listdir(currentpath):
         except:
             pass
         
-        resultfile = open('result/' + term + '.txt', 'w')
+        resultfile = open('result/' + term + '.json', 'w')
 
         resultfile.write('[\n')
         for filenm in os.listdir(currentpath):
@@ -54,3 +55,22 @@ for sccode in os.listdir(currentpath):
                         resultfile.write('    },\n')
         resultfile.seek(resultfile.tell() - 2, os.SEEK_SET)
         resultfile.write('\n]\n')
+
+
+for fname in os.listdir(path2):
+    currentpath = os.path.join(path2)
+    
+    resultfile = open('result/result-' + fname[:-4] + ".json", 'w')
+
+    resultfile.write('[\n')
+    print(os.path.join(path2, fname))
+    with open(os.path.join(path2, fname), 'r') as af:
+        lines = af.readlines()
+
+        for line in lines:
+            resultfile.write('    {\n')
+            resultfile.write('        "text": "' + line[:-1] + '",\n')
+            resultfile.write('        "label": ""\n')
+            resultfile.write('    },\n')
+    resultfile.seek(resultfile.tell() - 2, os.SEEK_SET)
+    resultfile.write('\n]\n')

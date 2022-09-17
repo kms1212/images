@@ -18,8 +18,10 @@ class MealText:
     def __str__(self):
         return self.text + ' ' + self.label
 
-for filename in os.listdir('result'):
-    f = open(os.path.join('result', filename), 'r')
+csvf = open('dataset.csv', 'w')
+
+for filename in os.listdir('datasetprep'):
+    f = open(os.path.join('datasetprep', filename), 'r')
     jsdata = json.load(f)
 
     try:
@@ -39,5 +41,8 @@ for filename in os.listdir('result'):
 
         wf = open(os.path.join('dataset', mealtext.label, 'meal_' + str(curmealid) + '.txt'), 'w')
         wf.write(mealtext.text)
+        csvf.write(mealtext.text + ',' + mealtext.label + '\n')
         curmealid += 1
-    
+        wf.close()
+    f.close()
+csvf.close()

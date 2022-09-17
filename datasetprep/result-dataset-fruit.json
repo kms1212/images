@@ -1,0 +1,302 @@
+[
+    {
+        "text": "매실",
+        "label": "fruit"
+    },
+    {
+        "text": "귤",
+        "label": "fruit"
+    },
+    {
+        "text": "머루",
+        "label": "fruit"
+    },
+    {
+        "text": "포도",
+        "label": "fruit"
+    },
+    {
+        "text": "귤",
+        "label": "fruit"
+    },
+    {
+        "text": "망고",
+        "label": "fruit"
+    },
+    {
+        "text": "머루",
+        "label": "fruit"
+    },
+    {
+        "text": "복분자",
+        "label": "fruit"
+    },
+    {
+        "text": "오렌지",
+        "label": "fruit"
+    },
+    {
+        "text": "포도",
+        "label": "fruit"
+    },
+    {
+        "text": "감",
+        "label": "fruit"
+    },
+    {
+        "text": "곶감",
+        "label": "fruit"
+    },
+    {
+        "text": "구기자",
+        "label": "fruit"
+    },
+    {
+        "text": "구아바",
+        "label": "fruit"
+    },
+    {
+        "text": "구즈베리",
+        "label": "fruit"
+    },
+    {
+        "text": "귤",
+        "label": "fruit"
+    },
+    {
+        "text": "금귤",
+        "label": "fruit"
+    },
+    {
+        "text": "다래",
+        "label": "fruit"
+    },
+    {
+        "text": "대추",
+        "label": "fruit"
+    },
+    {
+        "text": "대추야자",
+        "label": "fruit"
+    },
+    {
+        "text": "두리안",
+        "label": "fruit"
+    },
+    {
+        "text": "딸기",
+        "label": "fruit"
+    },
+    {
+        "text": "라임",
+        "label": "fruit"
+    },
+    {
+        "text": "라즈베리",
+        "label": "fruit"
+    },
+    {
+        "text": "람부탄",
+        "label": "fruit"
+    },
+    {
+        "text": "레몬",
+        "label": "fruit"
+    },
+    {
+        "text": "롱안",
+        "label": "fruit"
+    },
+    {
+        "text": "리치",
+        "label": "fruit"
+    },
+    {
+        "text": "망고",
+        "label": "fruit"
+    },
+    {
+        "text": "망고스틴",
+        "label": "fruit"
+    },
+    {
+        "text": "매실",
+        "label": "fruit"
+    },
+    {
+        "text": "멜론",
+        "label": "fruit"
+    },
+    {
+        "text": "모과",
+        "label": "fruit"
+    },
+    {
+        "text": "무화과",
+        "label": "fruit"
+    },
+    {
+        "text": "바나나",
+        "label": "fruit"
+    },
+    {
+        "text": "배",
+        "label": "fruit"
+    },
+    {
+        "text": "배즙",
+        "label": "fruit"
+    },
+    {
+        "text": "버찌",
+        "label": "fruit"
+    },
+    {
+        "text": "복숭아",
+        "label": "fruit"
+    },
+    {
+        "text": "블랙커런트",
+        "label": "fruit"
+    },
+    {
+        "text": "블루베리",
+        "label": "fruit"
+    },
+    {
+        "text": "비파",
+        "label": "fruit"
+    },
+    {
+        "text": "사과",
+        "label": "fruit"
+    },
+    {
+        "text": "산수유",
+        "label": "fruit"
+    },
+    {
+        "text": "살구",
+        "label": "fruit"
+    },
+    {
+        "text": "석류",
+        "label": "fruit"
+    },
+    {
+        "text": "수박",
+        "label": "fruit"
+    },
+    {
+        "text": "아로니아",
+        "label": "fruit"
+    },
+    {
+        "text": "아보카도",
+        "label": "fruit"
+    },
+    {
+        "text": "애플수박",
+        "label": "fruit"
+    },
+    {
+        "text": "앵두",
+        "label": "fruit"
+    },
+    {
+        "text": "엘더베리",
+        "label": "fruit"
+    },
+    {
+        "text": "오디",
+        "label": "fruit"
+    },
+    {
+        "text": "오미자",
+        "label": "fruit"
+    },
+    {
+        "text": "용과",
+        "label": "fruit"
+    },
+    {
+        "text": "유자",
+        "label": "fruit"
+    },
+    {
+        "text": "으름",
+        "label": "fruit"
+    },
+    {
+        "text": "자두",
+        "label": "fruit"
+    },
+    {
+        "text": "자몽",
+        "label": "fruit"
+    },
+    {
+        "text": "잭프루트",
+        "label": "fruit"
+    },
+    {
+        "text": "참외",
+        "label": "fruit"
+    },
+    {
+        "text": "체리",
+        "label": "fruit"
+    },
+    {
+        "text": "크랜베리",
+        "label": "fruit"
+    },
+    {
+        "text": "키위",
+        "label": "fruit"
+    },
+    {
+        "text": "탱자",
+        "label": "fruit"
+    },
+    {
+        "text": "파인애플",
+        "label": "fruit"
+    },
+    {
+        "text": "파파야",
+        "label": "fruit"
+    },
+    {
+        "text": "패션프루트",
+        "label": "fruit"
+    },
+    {
+        "text": "포도",
+        "label": "fruit"
+    },
+    {
+        "text": "꾸지뽕",
+        "label": "fruit"
+    },
+    {
+        "text": "딸기",
+        "label": "fruit"
+    },
+    {
+        "text": "바나나",
+        "label": "fruit"
+    },
+    {
+        "text": "블랙베리",
+        "label": "fruit"
+    },
+    {
+        "text": "산딸기",
+        "label": "fruit"
+    },
+    {
+        "text": "플럼코",
+        "label": "fruit"
+    }
+]

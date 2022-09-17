@@ -1,0 +1,5786 @@
+[
+    {
+        "text": "할라피뇨 통살버거",
+        "label": "bread"
+    },
+    {
+        "text": "BLT샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "감자크로켓",
+        "label": "bread"
+    },
+    {
+        "text": "꽈배기",
+        "label": "bread"
+    },
+    {
+        "text": "닭가슴살샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "도넛",
+        "label": "bread"
+    },
+    {
+        "text": "롤케이크",
+        "label": "bread"
+    },
+    {
+        "text": "링도넛",
+        "label": "bread"
+    },
+    {
+        "text": "마늘빵",
+        "label": "bread"
+    },
+    {
+        "text": "머핀",
+        "label": "bread"
+    },
+    {
+        "text": "모닝빵",
+        "label": "bread"
+    },
+    {
+        "text": "모카빵",
+        "label": "bread"
+    },
+    {
+        "text": "베이글",
+        "label": "bread"
+    },
+    {
+        "text": "불고기버거",
+        "label": "bread"
+    },
+    {
+        "text": "사과파이",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "소보로빵",
+        "label": "bread"
+    },
+    {
+        "text": "식빵",
+        "label": "bread"
+    },
+    {
+        "text": "식빵토스트",
+        "label": "bread"
+    },
+    {
+        "text": "찐빵",
+        "label": "bread"
+    },
+    {
+        "text": "참치 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "찹쌀도넛",
+        "label": "bread"
+    },
+    {
+        "text": "채소샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "초코 소라빵",
+        "label": "bread"
+    },
+    {
+        "text": "츄러스",
+        "label": "bread"
+    },
+    {
+        "text": "치킨버거",
+        "label": "bread"
+    },
+    {
+        "text": "카스텔라",
+        "label": "bread"
+    },
+    {
+        "text": "크로아상",
+        "label": "bread"
+    },
+    {
+        "text": "페이스트리",
+        "label": "bread"
+    },
+    {
+        "text": "피자빵",
+        "label": "bread"
+    },
+    {
+        "text": "햄버거",
+        "label": "bread"
+    },
+    {
+        "text": "햄샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "햄치즈샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "호떡",
+        "label": "bread"
+    },
+    {
+        "text": "미니브라우니",
+        "label": "bread"
+    },
+    {
+        "text": "핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "마늘 빵",
+        "label": "bread"
+    },
+    {
+        "text": "크림갈릭볼",
+        "label": "bread"
+    },
+    {
+        "text": "츄러스",
+        "label": "bread"
+    },
+    {
+        "text": "치즈츄러스",
+        "label": "bread"
+    },
+    {
+        "text": "스틱츄",
+        "label": "bread"
+    },
+    {
+        "text": "치즈스틱츄",
+        "label": "bread"
+    },
+    {
+        "text": "초코필링츄",
+        "label": "bread"
+    },
+    {
+        "text": "시나몬츄라이",
+        "label": "bread"
+    },
+    {
+        "text": "케이준츄라이",
+        "label": "bread"
+    },
+    {
+        "text": "어니언츄라이",
+        "label": "bread"
+    },
+    {
+        "text": "곰보빵",
+        "label": "bread"
+    },
+    {
+        "text": "만주",
+        "label": "bread"
+    },
+    {
+        "text": "버터크림빵",
+        "label": "bread"
+    },
+    {
+        "text": "참치샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "찹쌀도우넛",
+        "label": "bread"
+    },
+    {
+        "text": "채소고로케",
+        "label": "bread"
+    },
+    {
+        "text": "초콜릿케이크",
+        "label": "bread"
+    },
+    {
+        "text": "치즈케이크",
+        "label": "bread"
+    },
+    {
+        "text": "페이스트리빵",
+        "label": "bread"
+    },
+    {
+        "text": "불고기샌드",
+        "label": "bread"
+    },
+    {
+        "text": "쉬골샌드",
+        "label": "bread"
+    },
+    {
+        "text": "포골샌드",
+        "label": "bread"
+    },
+    {
+        "text": "치즈볼&바게트스틱",
+        "label": "bread"
+    },
+    {
+        "text": "바게트스틱",
+        "label": "bread"
+    },
+    {
+        "text": "브래드스틱",
+        "label": "bread"
+    },
+    {
+        "text": "팥치즈반달빵",
+        "label": "bread"
+    },
+    {
+        "text": "허니브레드",
+        "label": "bread"
+    },
+    {
+        "text": "젤라또 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "크로크무슈",
+        "label": "bread"
+    },
+    {
+        "text": "베이컨 치즈 팟파이",
+        "label": "bread"
+    },
+    {
+        "text": "치킨 팟파이",
+        "label": "bread"
+    },
+    {
+        "text": "불고기 브리또",
+        "label": "bread"
+    },
+    {
+        "text": "핫칠리치킨 브리또",
+        "label": "bread"
+    },
+    {
+        "text": "쿠키&크림 번버거",
+        "label": "bread"
+    },
+    {
+        "text": "티라미수 번버거",
+        "label": "bread"
+    },
+    {
+        "text": "수플레 치즈케잌",
+        "label": "bread"
+    },
+    {
+        "text": "티라미수 케잌",
+        "label": "bread"
+    },
+    {
+        "text": "초코무스 케잌",
+        "label": "bread"
+    },
+    {
+        "text": "레드벨벳 요거트 롤",
+        "label": "bread"
+    },
+    {
+        "text": "그린티 롤",
+        "label": "bread"
+    },
+    {
+        "text": "티라미수 샌디",
+        "label": "bread"
+    },
+    {
+        "text": "리코타 딸기 샌디",
+        "label": "bread"
+    },
+    {
+        "text": "쿠키 & 크림 샌디",
+        "label": "bread"
+    },
+    {
+        "text": "클래식 플레인 와플",
+        "label": "bread"
+    },
+    {
+        "text": "클래식 블루베리 와플",
+        "label": "bread"
+    },
+    {
+        "text": "클래식 마롱 와플",
+        "label": "bread"
+    },
+    {
+        "text": "못난이찹쌀꽈배기",
+        "label": "bread"
+    },
+    {
+        "text": "못난이찹쌀팥도넛",
+        "label": "bread"
+    },
+    {
+        "text": "못난이찹쌀유자도넛",
+        "label": "bread"
+    },
+    {
+        "text": "못난이찹쌀고구마크림치즈도넛",
+        "label": "bread"
+    },
+    {
+        "text": "못난이찹쌀핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "못난이찹쌀모짜렐라치즈핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "못난이찹쌀모짜렐라치즈도넛",
+        "label": "bread"
+    },
+    {
+        "text": "초콜릿 글레이즈드",
+        "label": "bread"
+    },
+    {
+        "text": "로열 루비 초콜릿 링",
+        "label": "bread"
+    },
+    {
+        "text": "더블 다크 초콜릿 필드",
+        "label": "bread"
+    },
+    {
+        "text": "퓨어 화이트 초콜릿 필드",
+        "label": "bread"
+    },
+    {
+        "text": "크런치 밀크 초콜릿 링",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈 필드",
+        "label": "bread"
+    },
+    {
+        "text": "초콜릿 필드",
+        "label": "bread"
+    },
+    {
+        "text": "로투스 비스코프 도넛",
+        "label": "bread"
+    },
+    {
+        "text": "리고 피넛버터 도넛",
+        "label": "bread"
+    },
+    {
+        "text": "미니 오리지널 글레이즈드",
+        "label": "bread"
+    },
+    {
+        "text": "초코홀릭",
+        "label": "bread"
+    },
+    {
+        "text": "초콜릿 아이스드 글레이즈드",
+        "label": "bread"
+    },
+    {
+        "text": "딸기와플넛",
+        "label": "bread"
+    },
+    {
+        "text": "초코와플넛",
+        "label": "bread"
+    },
+    {
+        "text": "카라멜와플넛",
+        "label": "bread"
+    },
+    {
+        "text": "오리지널 글레이즈드",
+        "label": "bread"
+    },
+    {
+        "text": "카라멜 아이스드",
+        "label": "bread"
+    },
+    {
+        "text": "슈거 코티드",
+        "label": "bread"
+    },
+    {
+        "text": "뉴욕 치즈케익",
+        "label": "bread"
+    },
+    {
+        "text": "파우더 스트로베리 필드",
+        "label": "bread"
+    },
+    {
+        "text": "글레이즈드 사워 크림",
+        "label": "bread"
+    },
+    {
+        "text": "글레이즈드 초콜릿 케익",
+        "label": "bread"
+    },
+    {
+        "text": "딸기 생크림 카스테라",
+        "label": "bread"
+    },
+    {
+        "text": "메론 생크림 카스테라",
+        "label": "bread"
+    },
+    {
+        "text": "플레인 카스테라",
+        "label": "bread"
+    },
+    {
+        "text": "콘 어니언 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "칠리앤치즈 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "쿠앤크 치즈케이크",
+        "label": "bread"
+    },
+    {
+        "text": "프렌치 초콜릿 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "마스카포네 티라미수",
+        "label": "bread"
+    },
+    {
+        "text": "아메리칸 치즈케이크",
+        "label": "bread"
+    },
+    {
+        "text": "딸기 생크림 오믈렛",
+        "label": "bread"
+    },
+    {
+        "text": "딸기 초코 생크림 오믈렛",
+        "label": "bread"
+    },
+    {
+        "text": "초코 생크림 오믈렛",
+        "label": "bread"
+    },
+    {
+        "text": "순수 요거트 오믈렛",
+        "label": "bread"
+    },
+    {
+        "text": "청포도 생크림 오믈렛",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 생크림 오믈렛",
+        "label": "bread"
+    },
+    {
+        "text": "생크림 딸기 와플",
+        "label": "bread"
+    },
+    {
+        "text": "생크림 딸기 망고 와플",
+        "label": "bread"
+    },
+    {
+        "text": "생크림 망고 와플",
+        "label": "bread"
+    },
+    {
+        "text": "생크림 와플",
+        "label": "bread"
+    },
+    {
+        "text": "생크림 딸기 토스트",
+        "label": "bread"
+    },
+    {
+        "text": "생크림 망고 토스트",
+        "label": "bread"
+    },
+    {
+        "text": "허니볼",
+        "label": "bread"
+    },
+    {
+        "text": "플레인 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "어니언 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "갈릭치즈브래드",
+        "label": "bread"
+    },
+    {
+        "text": "허니브래드",
+        "label": "bread"
+    },
+    {
+        "text": "플레인 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "어니언 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 크림치즈",
+        "label": "bread"
+    },
+    {
+        "text": "초코청크 크림치즈",
+        "label": "bread"
+    },
+    {
+        "text": "크랜베리 크림치즈",
+        "label": "bread"
+    },
+    {
+        "text": "허브갈릭 크림치즈",
+        "label": "bread"
+    },
+    {
+        "text": "플레인 크림치즈",
+        "label": "bread"
+    },
+    {
+        "text": "베리 까망베르 치즈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "라운드 쇼콜라 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "홍차 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "오렌지 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "이탈리안 티라미수",
+        "label": "bread"
+    },
+    {
+        "text": "크로크무슈",
+        "label": "bread"
+    },
+    {
+        "text": "불고기 치아바타",
+        "label": "bread"
+    },
+    {
+        "text": "어니언 햄 모짜렐라 파니니",
+        "label": "bread"
+    },
+    {
+        "text": "에그베이컨 크로와상",
+        "label": "bread"
+    },
+    {
+        "text": "뉴욕칠리 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "더블초코 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "라즈베리 요거트무스케이크",
+        "label": "bread"
+    },
+    {
+        "text": "바닐라품었슈",
+        "label": "bread"
+    },
+    {
+        "text": "딸기탑 마마츄리",
+        "label": "bread"
+    },
+    {
+        "text": "시나몬 멜츠 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "리치골드브레드",
+        "label": "bread"
+    },
+    {
+        "text": "허니치즈퐁당마마츄리",
+        "label": "bread"
+    },
+    {
+        "text": "잉글리쉬머핀",
+        "label": "bread"
+    },
+    {
+        "text": "치즈스틱케이크",
+        "label": "bread"
+    },
+    {
+        "text": "고구마스틱케이크",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리스틱케이크",
+        "label": "bread"
+    },
+    {
+        "text": "초코스틱케이크",
+        "label": "bread"
+    },
+    {
+        "text": "초코 퐁당 마마츄리",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 퐁당 마마츄리",
+        "label": "bread"
+    },
+    {
+        "text": "라즈베리 퐁당 마마츄리",
+        "label": "bread"
+    },
+    {
+        "text": "크로크무슈",
+        "label": "bread"
+    },
+    {
+        "text": "플레인베이글",
+        "label": "bread"
+    },
+    {
+        "text": "어니언베이글",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈프레즐",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리베이글",
+        "label": "bread"
+    },
+    {
+        "text": "치즈번",
+        "label": "bread"
+    },
+    {
+        "text": "모카번",
+        "label": "bread"
+    },
+    {
+        "text": "초코머핀",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리머핀",
+        "label": "bread"
+    },
+    {
+        "text": "플레인와플",
+        "label": "bread"
+    },
+    {
+        "text": "카라멜월넛와플",
+        "label": "bread"
+    },
+    {
+        "text": "초코와플",
+        "label": "bread"
+    },
+    {
+        "text": "메이플아몬드와플",
+        "label": "bread"
+    },
+    {
+        "text": "아이스크림와플",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리크림치즈와플",
+        "label": "bread"
+    },
+    {
+        "text": "라즈베리바나나와플",
+        "label": "bread"
+    },
+    {
+        "text": "스페셜마마와플",
+        "label": "bread"
+    },
+    {
+        "text": "피넛버터브레드",
+        "label": "bread"
+    },
+    {
+        "text": "카라멜브레드",
+        "label": "bread"
+    },
+    {
+        "text": "초콜릿브레드",
+        "label": "bread"
+    },
+    {
+        "text": "갈릭치즈브레드",
+        "label": "bread"
+    },
+    {
+        "text": "떠먹는 헤이즐넛 생크림 크레이프",
+        "label": "bread"
+    },
+    {
+        "text": "초콜릿 크렘슈",
+        "label": "bread"
+    },
+    {
+        "text": "바닐라 크렘슈",
+        "label": "bread"
+    },
+    {
+        "text": "생크림 피칸 타르트",
+        "label": "bread"
+    },
+    {
+        "text": "생크림 소프트 쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "러브 시그널",
+        "label": "bread"
+    },
+    {
+        "text": "바닐라 크렘 브륄레",
+        "label": "bread"
+    },
+    {
+        "text": "TWG 밀크티 쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "더치 솔티드 카라멜",
+        "label": "bread"
+    },
+    {
+        "text": "떠먹는 스트로베리 초콜릿 생크림",
+        "label": "bread"
+    },
+    {
+        "text": "떠먹는 티라미수",
+        "label": "bread"
+    },
+    {
+        "text": "벨지안 가나슈",
+        "label": "bread"
+    },
+    {
+        "text": "떠먹는 딸기 레어 치즈",
+        "label": "bread"
+    },
+    {
+        "text": "떠먹는 아이스박스",
+        "label": "bread"
+    },
+    {
+        "text": "그뤼에르 치즈 무스",
+        "label": "bread"
+    },
+    {
+        "text": "트리플 초콜릿 무스",
+        "label": "bread"
+    },
+    {
+        "text": "스파이시 튜나 바게트",
+        "label": "bread"
+    },
+    {
+        "text": "에그 브리오슈",
+        "label": "bread"
+    },
+    {
+        "text": "애플 고다 프렌치토스트",
+        "label": "bread"
+    },
+    {
+        "text": "핫치킨 치아바타",
+        "label": "bread"
+    },
+    {
+        "text": "초리조&모짜렐라 크루아상",
+        "label": "bread"
+    },
+    {
+        "text": "애플&까마에르 크루아상",
+        "label": "bread"
+    },
+    {
+        "text": "그릴드포카치아갈릭치킨",
+        "label": "bread"
+    },
+    {
+        "text": "그릴드포카치아햄&치즈",
+        "label": "bread"
+    },
+    {
+        "text": "핫치킨베이크",
+        "label": "bread"
+    },
+    {
+        "text": "불고기베이크",
+        "label": "bread"
+    },
+    {
+        "text": "토마토모짜렐라랩",
+        "label": "bread"
+    },
+    {
+        "text": "시저치킨랩",
+        "label": "bread"
+    },
+    {
+        "text": "올리브 치킨 파니니",
+        "label": "bread"
+    },
+    {
+        "text": "칠리 소시지 바게트 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "할라피뇨 스테이크 바게트 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "레즌 스콘",
+        "label": "bread"
+    },
+    {
+        "text": "오리지널 스콘",
+        "label": "bread"
+    },
+    {
+        "text": "멜팅치즈 깜파뉴 토스트",
+        "label": "bread"
+    },
+    {
+        "text": "오렌지쇼콜라파운드",
+        "label": "bread"
+    },
+    {
+        "text": "TWG밀크티파운드",
+        "label": "bread"
+    },
+    {
+        "text": "햄&치즈 퀘사디아",
+        "label": "bread"
+    },
+    {
+        "text": "페스토 햄치즈 파니니",
+        "label": "bread"
+    },
+    {
+        "text": "멕시칸 파니니",
+        "label": "bread"
+    },
+    {
+        "text": "크로크무슈",
+        "label": "bread"
+    },
+    {
+        "text": "스윗버터 토스트",
+        "label": "bread"
+    },
+    {
+        "text": "스윗버터 토스트 위드베리",
+        "label": "bread"
+    },
+    {
+        "text": "바비큐 치킨 파니니",
+        "label": "bread"
+    },
+    {
+        "text": "더블초콜릿머핀",
+        "label": "bread"
+    },
+    {
+        "text": "라즈베리초코칩머핀",
+        "label": "bread"
+    },
+    {
+        "text": "오리지널블루베리머핀",
+        "label": "bread"
+    },
+    {
+        "text": "B.E.L.T 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "토마토 베이컨 블루밍브레드",
+        "label": "bread"
+    },
+    {
+        "text": "6치즈 블루밍브레드",
+        "label": "bread"
+    },
+    {
+        "text": "화이트 포레스트 생크림",
+        "label": "bread"
+    },
+    {
+        "text": "스트로베리 초콜릿 생크림",
+        "label": "bread"
+    },
+    {
+        "text": "딸기 생크림",
+        "label": "bread"
+    },
+    {
+        "text": "마스카포네 티라미수",
+        "label": "bread"
+    },
+    {
+        "text": "레드 벨벳",
+        "label": "bread"
+    },
+    {
+        "text": "뉴욕 치즈",
+        "label": "bread"
+    },
+    {
+        "text": "그뤼에르 치즈 무스",
+        "label": "bread"
+    },
+    {
+        "text": "퀸즈 캐롯",
+        "label": "bread"
+    },
+    {
+        "text": "벨지안 멜팅 가나슈",
+        "label": "bread"
+    },
+    {
+        "text": "비 마이 스트로베리",
+        "label": "bread"
+    },
+    {
+        "text": "비 마이 민트",
+        "label": "bread"
+    },
+    {
+        "text": "리얼 생크림 ",
+        "label": "bread"
+    },
+    {
+        "text": "블랙 벨벳",
+        "label": "bread"
+    },
+    {
+        "text": "카푸치노 생크림",
+        "label": "bread"
+    },
+    {
+        "text": "러브 시그널",
+        "label": "bread"
+    },
+    {
+        "text": "바닐라 크렘 브륄레",
+        "label": "bread"
+    },
+    {
+        "text": "로즈베리 생크림",
+        "label": "bread"
+    },
+    {
+        "text": "TWG 밀크티 쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "더치 솔티드 카라멜",
+        "label": "bread"
+    },
+    {
+        "text": "까망베르 치즈",
+        "label": "bread"
+    },
+    {
+        "text": "요거 생크림 ",
+        "label": "bread"
+    },
+    {
+        "text": "믹스드베리 초콜릿 생크림",
+        "label": "bread"
+    },
+    {
+        "text": "요거 생크림 ",
+        "label": "bread"
+    },
+    {
+        "text": "트리플 초콜릿 무스",
+        "label": "bread"
+    },
+    {
+        "text": "블랙 포레스트",
+        "label": "bread"
+    },
+    {
+        "text": "클래식 가토",
+        "label": "bread"
+    },
+    {
+        "text": "초코 쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "장미 요거 생크림",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "스트로베리 초콜릿 생크림 파티팩",
+        "label": "bread"
+    },
+    {
+        "text": "프렌지 허니 크레이프 파티팩",
+        "label": "bread"
+    },
+    {
+        "text": "생크림 피칸 타르트",
+        "label": "bread"
+    },
+    {
+        "text": "딸기 레어 치즈 파티팩",
+        "label": "bread"
+    },
+    {
+        "text": "아이스박스 파티팩",
+        "label": "bread"
+    },
+    {
+        "text": "티라미수 파티팩",
+        "label": "bread"
+    },
+    {
+        "text": "요거하트",
+        "label": "bread"
+    },
+    {
+        "text": "치즈 수플레 미니케익",
+        "label": "bread"
+    },
+    {
+        "text": "더블 프로마쥬 케익",
+        "label": "bread"
+    },
+    {
+        "text": "리얼 다크 타르트",
+        "label": "bread"
+    },
+    {
+        "text": "까사링고 레몬",
+        "label": "bread"
+    },
+    {
+        "text": "까사링고 티라미수",
+        "label": "bread"
+    },
+    {
+        "text": "수플레 치즈케익",
+        "label": "bread"
+    },
+    {
+        "text": "초코 밀크푸딩무스",
+        "label": "bread"
+    },
+    {
+        "text": "리치 가나슈 케익",
+        "label": "bread"
+    },
+    {
+        "text": "오리지널 티라미수 컵",
+        "label": "bread"
+    },
+    {
+        "text": "레드벨벳 케익",
+        "label": "bread"
+    },
+    {
+        "text": "스윗 마운틴",
+        "label": "bread"
+    },
+    {
+        "text": "쇼콜라 스퀘어",
+        "label": "bread"
+    },
+    {
+        "text": "스트로베리 스퀘어",
+        "label": "bread"
+    },
+    {
+        "text": "레몬 크레이프",
+        "label": "bread"
+    },
+    {
+        "text": "딸기 크레이프",
+        "label": "bread"
+    },
+    {
+        "text": "티라미수 크레이프",
+        "label": "bread"
+    },
+    {
+        "text": "블랙쿠키 치즈케익",
+        "label": "bread"
+    },
+    {
+        "text": "버라이어티 치즈 포카챠",
+        "label": "bread"
+    },
+    {
+        "text": "화이트 트러플 오일 크로크무슈",
+        "label": "bread"
+    },
+    {
+        "text": "스크램블 햄 에그",
+        "label": "bread"
+    },
+    {
+        "text": "스크램블 베이컨 에그",
+        "label": "bread"
+    },
+    {
+        "text": "파니니 이탈리안 치킨",
+        "label": "bread"
+    },
+    {
+        "text": "파니니 햄&머쉬룸",
+        "label": "bread"
+    },
+    {
+        "text": "파니니 클래식",
+        "label": "bread"
+    },
+    {
+        "text": "파니니 불고기",
+        "label": "bread"
+    },
+    {
+        "text": "파니니 풀드포크",
+        "label": "bread"
+    },
+    {
+        "text": "이탈리안 포카챠",
+        "label": "bread"
+    },
+    {
+        "text": "햄치즈 피아디나",
+        "label": "bread"
+    },
+    {
+        "text": "햄&코울슬로 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "BLT 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "햄치즈 크라상 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "치킨 살사 랩 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "플레인 스콘",
+        "label": "bread"
+    },
+    {
+        "text": "이탈리안 팡도르",
+        "label": "bread"
+    },
+    {
+        "text": "정통 크라상",
+        "label": "bread"
+    },
+    {
+        "text": "애플파이",
+        "label": "bread"
+    },
+    {
+        "text": "미니 푀이테",
+        "label": "bread"
+    },
+    {
+        "text": "옥수수 스콘",
+        "label": "bread"
+    },
+    {
+        "text": "크랜베리 스콘",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "블랙쿠키 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "더블 치즈 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "에그 타르트",
+        "label": "bread"
+    },
+    {
+        "text": "티라미수 타르트",
+        "label": "bread"
+    },
+    {
+        "text": "콰트로 치즈 타르트",
+        "label": "bread"
+    },
+    {
+        "text": "허니브레드+생크림",
+        "label": "bread"
+    },
+    {
+        "text": "허니브레드+젤라또",
+        "label": "bread"
+    },
+    {
+        "text": "애플 시나몬 허니 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "몽블랑 데니쉬",
+        "label": "bread"
+    },
+    {
+        "text": "퀸아망",
+        "label": "bread"
+    },
+    {
+        "text": "마카다미아 데니쉬",
+        "label": "bread"
+    },
+    {
+        "text": "레몬얼그레이 우드파운드",
+        "label": "bread"
+    },
+    {
+        "text": "피칸시나몬 우드파운드",
+        "label": "bread"
+    },
+    {
+        "text": "레몬마들렌",
+        "label": "bread"
+    },
+    {
+        "text": "브라우니 피칸&초코",
+        "label": "bread"
+    },
+    {
+        "text": "파스쿠찌 슈케트",
+        "label": "bread"
+    },
+    {
+        "text": "콰트로 치즈 파운드",
+        "label": "bread"
+    },
+    {
+        "text": "마들렌",
+        "label": "bread"
+    },
+    {
+        "text": "프랑보아즈 피낭시에",
+        "label": "bread"
+    },
+    {
+        "text": "피낭시에",
+        "label": "bread"
+    },
+    {
+        "text": "미니 바움쿠헨",
+        "label": "bread"
+    },
+    {
+        "text": "쉘카라멜",
+        "label": "bread"
+    },
+    {
+        "text": "브래드스틱",
+        "label": "bread"
+    },
+    {
+        "text": "치즈스틱",
+        "label": "bread"
+    },
+    {
+        "text": "베이컨치즈스틱",
+        "label": "bread"
+    },
+    {
+        "text": "더블초코칩브라우니",
+        "label": "bread"
+    },
+    {
+        "text": "와규 에디션2",
+        "label": "bread"
+    },
+    {
+        "text": "더블X2",
+        "label": "bread"
+    },
+    {
+        "text": "모짜렐라 인 더 버거 - 베이컨",
+        "label": "bread"
+    },
+    {
+        "text": "AZ버거 오리지널",
+        "label": "bread"
+    },
+    {
+        "text": "모짜렐라 인 더 버거 - 더블",
+        "label": "bread"
+    },
+    {
+        "text": "모짜렐라 인 더 버거 - 해쉬",
+        "label": "bread"
+    },
+    {
+        "text": "원조빅불",
+        "label": "bread"
+    },
+    {
+        "text": "핫크리스피버거",
+        "label": "bread"
+    },
+    {
+        "text": "불고기버거",
+        "label": "bread"
+    },
+    {
+        "text": "오징어버거",
+        "label": "bread"
+    },
+    {
+        "text": "새우버거",
+        "label": "bread"
+    },
+    {
+        "text": "치킨버거",
+        "label": "bread"
+    },
+    {
+        "text": "T-REX 버거",
+        "label": "bread"
+    },
+    {
+        "text": "비프바베큐버거",
+        "label": "bread"
+    },
+    {
+        "text": "클래식 치즈버거",
+        "label": "bread"
+    },
+    {
+        "text": "데리버거",
+        "label": "bread"
+    },
+    {
+        "text": "모짜 더블 토스트",
+        "label": "bread"
+    },
+    {
+        "text": "모짜 초코 토스트",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈 프레즐",
+        "label": "bread"
+    },
+    {
+        "text": "페스츄리 소시지",
+        "label": "bread"
+    },
+    {
+        "text": "치즈 타르트",
+        "label": "bread"
+    },
+    {
+        "text": "매콤 치킨 브리또",
+        "label": "bread"
+    },
+    {
+        "text": "바질&토마토 크림치즈 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "튜나 샐러드 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "바닐라 아이스크림 와플",
+        "label": "bread"
+    },
+    {
+        "text": "그린티 아이스크림 와플",
+        "label": "bread"
+    },
+    {
+        "text": "생딸기 스노우 와플",
+        "label": "bread"
+    },
+    {
+        "text": "생크림 카스테라",
+        "label": "bread"
+    },
+    {
+        "text": "인절미 토스트",
+        "label": "bread"
+    },
+    {
+        "text": "비프 & 에그 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "바질토마토&치킨 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "할라피뇨 치킨 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "카라멜 아이스크림 와플",
+        "label": "bread"
+    },
+    {
+        "text": "카야 토스트",
+        "label": "bread"
+    },
+    {
+        "text": "크로크무슈",
+        "label": "bread"
+    },
+    {
+        "text": "베리 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "스틱 치즈 케익",
+        "label": "bread"
+    },
+    {
+        "text": "허니브레드",
+        "label": "bread"
+    },
+    {
+        "text": "월넛 크림치즈 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "메이플 크림치즈 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "플레인 와플",
+        "label": "bread"
+    },
+    {
+        "text": "브라우니",
+        "label": "bread"
+    },
+    {
+        "text": "매콤 소시지 불고기 베이크",
+        "label": "bread"
+    },
+    {
+        "text": "소시지 불고기 베이크",
+        "label": "bread"
+    },
+    {
+        "text": "쫄깃 레드빈 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "치킨 그랩 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "녹차 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "다크 초콜릿 칩 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "제주 감귤 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "월넛 크림 치즈 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "호두 크림치즈 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "DT_스콘 스틱",
+        "label": "bread"
+    },
+    {
+        "text": "미니 클래식 스콘",
+        "label": "bread"
+    },
+    {
+        "text": "카카오 초콜릿 스콘",
+        "label": "bread"
+    },
+    {
+        "text": "클래식 스콘",
+        "label": "bread"
+    },
+    {
+        "text": "DT_파마산 스틱",
+        "label": "bread"
+    },
+    {
+        "text": "거문 오름 크루아상",
+        "label": "bread"
+    },
+    {
+        "text": "레몬&그린티 패스트리",
+        "label": "bread"
+    },
+    {
+        "text": "리프 파이",
+        "label": "bread"
+    },
+    {
+        "text": "바게트 버터&잼",
+        "label": "bread"
+    },
+    {
+        "text": "베이컨 치즈 데니쉬",
+        "label": "bread"
+    },
+    {
+        "text": "스위트 시나몬 브리오슈",
+        "label": "bread"
+    },
+    {
+        "text": "올리브 베이컨 플랫 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "우도 땅콩 데니쉬롤",
+        "label": "bread"
+    },
+    {
+        "text": "우리 대감 쌀빵",
+        "label": "bread"
+    },
+    {
+        "text": "우리 쑥쑥 쌀식빵",
+        "label": "bread"
+    },
+    {
+        "text": "체다치즈 먹물 쌀식빵",
+        "label": "bread"
+    },
+    {
+        "text": "초콜릿 롤링 크루아상",
+        "label": "bread"
+    },
+    {
+        "text": "초콜릿 크런치 볼",
+        "label": "bread"
+    },
+    {
+        "text": "치즈 데니쉬",
+        "label": "bread"
+    },
+    {
+        "text": "프렌치 크루아상",
+        "label": "bread"
+    },
+    {
+        "text": "하트 파이",
+        "label": "bread"
+    },
+    {
+        "text": "현무암 포카치아",
+        "label": "bread"
+    },
+    {
+        "text": "리얼 피칸 타르트",
+        "label": "bread"
+    },
+    {
+        "text": "클라우드 초콜릿 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "7 레이어 가나슈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "DT밀당 케이크_듀오",
+        "label": "bread"
+    },
+    {
+        "text": "DT밀당 케이크_레드 벨벳",
+        "label": "bread"
+    },
+    {
+        "text": "DT밀당 케이크_촉촉 초코",
+        "label": "bread"
+    },
+    {
+        "text": "구운 바나나 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "레드벨벳 크림치즈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "리코타 멜팅 치즈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "마스카포네 티라미수 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "밀크티 초콜릿 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "바나나 피칸 파운드",
+        "label": "bread"
+    },
+    {
+        "text": "부드러운 생크림 카스텔라",
+        "label": "bread"
+    },
+    {
+        "text": "블랙 쿠키 치즈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 쿠키 치즈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "애플 시나몬 크럼블",
+        "label": "bread"
+    },
+    {
+        "text": "유자 담은 티라미수",
+        "label": "bread"
+    },
+    {
+        "text": "제주 감귤 치즈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "초콜릿 데블스 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "초콜릿 페스티벌 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "크레이프 치즈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "클라우드 치즈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "호두 당근 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "당근 현무암 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "라임라임 타르트",
+        "label": "bread"
+    },
+    {
+        "text": "제주 녹차 티라미수 아일랜드",
+        "label": "bread"
+    },
+    {
+        "text": "체커스 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "티라미수 아일랜드",
+        "label": "bread"
+    },
+    {
+        "text": "피스타치오 파운드",
+        "label": "bread"
+    },
+    {
+        "text": "촉촉 초콜릿 생크림 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "티라미수 볼",
+        "label": "bread"
+    },
+    {
+        "text": "베리베리 바움쿠헨",
+        "label": "bread"
+    },
+    {
+        "text": "초콜릿 벨벳 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 쿠키 치즈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "세븐 레이어 가나슈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "청담스타 얼 그레이 밀크 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "청담스타 오 허니 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "크레이프 에멘탈 치즈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "피칸 브라우니",
+        "label": "bread"
+    },
+    {
+        "text": "헤븐리 티라미수",
+        "label": "bread"
+    },
+    {
+        "text": "베이컨 치즈 토스트",
+        "label": "bread"
+    },
+    {
+        "text": "치킨 커틀렛 아보카도 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "B.E.L.T. 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "DT밀당 샌드위치_바질 모짜렐라",
+        "label": "bread"
+    },
+    {
+        "text": "DT밀당 샌드위치_베이컨 크림치즈",
+        "label": "bread"
+    },
+    {
+        "text": "그릴드 베지터블 파니니",
+        "label": "bread"
+    },
+    {
+        "text": "뉴 비프 브리또",
+        "label": "bread"
+    },
+    {
+        "text": "단호박 에그 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "머쉬룸 치즈 클럽 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "멕시칸 브리또 밀 박스",
+        "label": "bread"
+    },
+    {
+        "text": "모짜렐라 베이컨 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "바비큐 치킨 치즈 치아바타",
+        "label": "bread"
+    },
+    {
+        "text": "바비큐 치킨 파니니",
+        "label": "bread"
+    },
+    {
+        "text": "바질 치킨 바게트",
+        "label": "bread"
+    },
+    {
+        "text": "베이컨 과카몰리 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "베이컨 치즈 치아바타 모닝박스",
+        "label": "bread"
+    },
+    {
+        "text": "볼케이노 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "스리라차 치킨 치아바타",
+        "label": "bread"
+    },
+    {
+        "text": "어니언 베이컨 체다치즈 파니니",
+        "label": "bread"
+    },
+    {
+        "text": "에그 베이컨 치즈 백년초 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "에그 베이컨 파니니",
+        "label": "bread"
+    },
+    {
+        "text": "에그 아보카도 파니니",
+        "label": "bread"
+    },
+    {
+        "text": "에그에그 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "잉글리쉬 머핀 밀 박스",
+        "label": "bread"
+    },
+    {
+        "text": "제주 녹차 베이컨 치즈 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "제주 당근 크림치즈 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "제주 흑돼지 초리조 먹물 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "치킨 루꼴라 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "치킨 아보카도&치즈 파니니",
+        "label": "bread"
+    },
+    {
+        "text": "크랜베리 치킨 치즈 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "크로크 무슈",
+        "label": "bread"
+    },
+    {
+        "text": "탄두리 치킨 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "탄두리 치킨 토마토 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "터키 멜팅 치즈 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "포크 커틀릿 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "햄 에그 크레페 밀 박스",
+        "label": "bread"
+    },
+    {
+        "text": "햄&루꼴라 올리브 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "햄&치즈 에그 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "현무암 크로크무슈",
+        "label": "bread"
+    },
+    {
+        "text": "먹물치즈 라이스 비스코티",
+        "label": "bread"
+    },
+    {
+        "text": "탐라 비스코티",
+        "label": "bread"
+    },
+    {
+        "text": "현무암 러스크",
+        "label": "bread"
+    },
+    {
+        "text": "우리米 카스텔라",
+        "label": "bread"
+    },
+    {
+        "text": "카라멜 와플",
+        "label": "bread"
+    },
+    {
+        "text": "오리지널 프레즐",
+        "label": "bread"
+    },
+    {
+        "text": "아몬드 프레즐",
+        "label": "bread"
+    },
+    {
+        "text": "시나몬 슈가 프레즐",
+        "label": "bread"
+    },
+    {
+        "text": "갈릭 프레즐",
+        "label": "bread"
+    },
+    {
+        "text": "어니언 프레즐",
+        "label": "bread"
+    },
+    {
+        "text": "페퍼로니 프레즐",
+        "label": "bread"
+    },
+    {
+        "text": "할라피뇨 치즈 프레즐",
+        "label": "bread"
+    },
+    {
+        "text": "애플 플랫프레즐",
+        "label": "bread"
+    },
+    {
+        "text": "치킨 플랫프레즐",
+        "label": "bread"
+    },
+    {
+        "text": "오리지널스틱",
+        "label": "bread"
+    },
+    {
+        "text": "아몬드스틱",
+        "label": "bread"
+    },
+    {
+        "text": "시나몬 슈가 스틱",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈 스틱",
+        "label": "bread"
+    },
+    {
+        "text": "아몬드 크림치즈 스틱",
+        "label": "bread"
+    },
+    {
+        "text": "어니언스틱",
+        "label": "bread"
+    },
+    {
+        "text": "갈릭스틱",
+        "label": "bread"
+    },
+    {
+        "text": "벚꽃크림치즈스틱",
+        "label": "bread"
+    },
+    {
+        "text": "고구마크림치즈스틱",
+        "label": "bread"
+    },
+    {
+        "text": "아몬드모카크림치즈스틱",
+        "label": "bread"
+    },
+    {
+        "text": "아몬드고구마크림치즈스틱",
+        "label": "bread"
+    },
+    {
+        "text": "핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "할라피뇨 치즈 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "블랙페퍼 치즈 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "라이언 미니케이크",
+        "label": "bread"
+    },
+    {
+        "text": "어피치 미니케이크",
+        "label": "bread"
+    },
+    {
+        "text": "튜브 미니케이크",
+        "label": "bread"
+    },
+    {
+        "text": "크루아상",
+        "label": "bread"
+    },
+    {
+        "text": "갈릭 치즈 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "떠먹는 티라미수",
+        "label": "bread"
+    },
+    {
+        "text": "데블스 초코 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "초코 티라미수",
+        "label": "bread"
+    },
+    {
+        "text": "수플레 치즈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "소고기 브리또",
+        "label": "bread"
+    },
+    {
+        "text": "핫치킨 브리또",
+        "label": "bread"
+    },
+    {
+        "text": "생크림 티라미수빵",
+        "label": "bread"
+    },
+    {
+        "text": "생크림 팥빵",
+        "label": "bread"
+    },
+    {
+        "text": "허니 카라멜 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "메이플 넛 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "생크림 와플",
+        "label": "bread"
+    },
+    {
+        "text": "플레인 와플",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈 와플",
+        "label": "bread"
+    },
+    {
+        "text": "메이플 와플",
+        "label": "bread"
+    },
+    {
+        "text": "크로크 무슈",
+        "label": "bread"
+    },
+    {
+        "text": "잉글리쉬 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "오리지널 핫 번",
+        "label": "bread"
+    },
+    {
+        "text": "핫 치즈 번",
+        "label": "bread"
+    },
+    {
+        "text": "소시지롤",
+        "label": "bread"
+    },
+    {
+        "text": "치즈롤",
+        "label": "bread"
+    },
+    {
+        "text": "프레즐",
+        "label": "bread"
+    },
+    {
+        "text": "플레인 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "어니언 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "이디야 티라미수",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 치즈 스틱케익",
+        "label": "bread"
+    },
+    {
+        "text": "플레인 치즈 스틱케익",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "초코칩 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "치즈브래드 스틱",
+        "label": "bread"
+    },
+    {
+        "text": "고구마브래드 스틱",
+        "label": "bread"
+    },
+    {
+        "text": "사라다빵",
+        "label": "bread"
+    },
+    {
+        "text": "소제지빵",
+        "label": "bread"
+    },
+    {
+        "text": "계란사라다빵",
+        "label": "bread"
+    },
+    {
+        "text": "생크림 크루아상",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 초코칩 스콘",
+        "label": "bread"
+    },
+    {
+        "text": "초코 후르츠 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "오렌지 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "크로크무슈",
+        "label": "bread"
+    },
+    {
+        "text": "크림 치즈 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "플레인 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "치즈 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "쌀 블루베리 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "햄 치즈 포카치아",
+        "label": "bread"
+    },
+    {
+        "text": "햄 치즈 잉글리쉬 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "떠먹는 레드벨벳",
+        "label": "bread"
+    },
+    {
+        "text": "떠먹는 티라미수",
+        "label": "bread"
+    },
+    {
+        "text": "헤이즐넛초코케익",
+        "label": "bread"
+    },
+    {
+        "text": "다크초코롤",
+        "label": "bread"
+    },
+    {
+        "text": "시카고 치즈 케익",
+        "label": "bread"
+    },
+    {
+        "text": "초콜릿 무스 케익",
+        "label": "bread"
+    },
+    {
+        "text": "까망베르 치즈 타르트",
+        "label": "bread"
+    },
+    {
+        "text": "티라미수 큐브",
+        "label": "bread"
+    },
+    {
+        "text": "쁘띠 까망베르 치즈 케익",
+        "label": "bread"
+    },
+    {
+        "text": "생크림 카스테라",
+        "label": "bread"
+    },
+    {
+        "text": "밀크레이프",
+        "label": "bread"
+    },
+    {
+        "text": "티라미수 크레이프",
+        "label": "bread"
+    },
+    {
+        "text": "에그 베이컨 브리오쉬",
+        "label": "bread"
+    },
+    {
+        "text": "루꼴라&햄 페스토 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "크랜베리 아몬드 치킨 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "B.E.L.T 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "모짜렐라 치킨 머쉬룸 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "매콤 치킨 치즈 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "에그 잼 사라다 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "에그 햄 치즈 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "휘낭시에",
+        "label": "bread"
+    },
+    {
+        "text": "오리지널 카쉬",
+        "label": "bread"
+    },
+    {
+        "text": "레드벨벳 카쉬",
+        "label": "bread"
+    },
+    {
+        "text": "코코넛 카쉬",
+        "label": "bread"
+    },
+    {
+        "text": "초코 카쉬",
+        "label": "bread"
+    },
+    {
+        "text": "멜론 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "워터멜론 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "크림 베리 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "마스카포네 티라미수 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "프리미엄 머쉬룸 베이컨 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "프리미엄 치킨 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "모짜렐라 치즈 포카치아",
+        "label": "bread"
+    },
+    {
+        "text": "핑크 베리 토르테",
+        "label": "bread"
+    },
+    {
+        "text": "크림 치즈 캐롯 케익",
+        "label": "bread"
+    },
+    {
+        "text": "베리 팬케익",
+        "label": "bread"
+    },
+    {
+        "text": "스위트 팬케익",
+        "label": "bread"
+    },
+    {
+        "text": "화이트쇼콜라",
+        "label": "bread"
+    },
+    {
+        "text": "에그&베이컨 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "햄치즈샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "초코크림크로와상",
+        "label": "bread"
+    },
+    {
+        "text": "갈릭파이",
+        "label": "bread"
+    },
+    {
+        "text": "큐브 달콤 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "크로크마담",
+        "label": "bread"
+    },
+    {
+        "text": "크로크무슈",
+        "label": "bread"
+    },
+    {
+        "text": "메이플피칸",
+        "label": "bread"
+    },
+    {
+        "text": "아이스크림와플",
+        "label": "bread"
+    },
+    {
+        "text": "플레인와플",
+        "label": "bread"
+    },
+    {
+        "text": "클래식 클럽 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "어니언 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "플레인 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "오리지날 번",
+        "label": "bread"
+    },
+    {
+        "text": "뉴욕 치즈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "허니버터 크리스피볼",
+        "label": "bread"
+    },
+    {
+        "text": "메이플 허니브레드",
+        "label": "bread"
+    },
+    {
+        "text": "갈릭치즈 크리스피볼",
+        "label": "bread"
+    },
+    {
+        "text": "갈릭치즈 허니브레드",
+        "label": "bread"
+    },
+    {
+        "text": "페퍼로니 치즈 바게트",
+        "label": "bread"
+    },
+    {
+        "text": "미트볼 칠리 치즈",
+        "label": "bread"
+    },
+    {
+        "text": "명란 에그 마요",
+        "label": "bread"
+    },
+    {
+        "text": "당근 크림치즈 라운드",
+        "label": "bread"
+    },
+    {
+        "text": "인절미 크림 쉬폰 라운드",
+        "label": "bread"
+    },
+    {
+        "text": "아이스크림 사과 타르트",
+        "label": "bread"
+    },
+    {
+        "text": "쌀 촉촉 카스테라",
+        "label": "bread"
+    },
+    {
+        "text": "아이스크림 꽂힌 티라미스",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 마스카포네 라운드",
+        "label": "bread"
+    },
+    {
+        "text": "단호박 치즈 라운드",
+        "label": "bread"
+    },
+    {
+        "text": "페스토 햄 모짜렐라",
+        "label": "bread"
+    },
+    {
+        "text": "올리브 베이컨 치아바타",
+        "label": "bread"
+    },
+    {
+        "text": "오트밀 치킨 할라피뇨",
+        "label": "bread"
+    },
+    {
+        "text": "에그 마요",
+        "label": "bread"
+    },
+    {
+        "text": "더블 베리 치즈 라운드",
+        "label": "bread"
+    },
+    {
+        "text": "더블 초코 라운드",
+        "label": "bread"
+    },
+    {
+        "text": "딸기 갸토 쇼콜라",
+        "label": "bread"
+    },
+    {
+        "text": "리얼벨지안 초코케익",
+        "label": "bread"
+    },
+    {
+        "text": "마스카포네 티라미스",
+        "label": "bread"
+    },
+    {
+        "text": "뉴욕치즈",
+        "label": "bread"
+    },
+    {
+        "text": "초코쿠키 파운드케익",
+        "label": "bread"
+    },
+    {
+        "text": "얼그레이 파운드케익",
+        "label": "bread"
+    },
+    {
+        "text": "햄치즈 데니쉬식빵",
+        "label": "bread"
+    },
+    {
+        "text": "갈릭 데니쉬식빵",
+        "label": "bread"
+    },
+    {
+        "text": "크로크무슈",
+        "label": "bread"
+    },
+    {
+        "text": "스위트콘 에그데니쉬",
+        "label": "bread"
+    },
+    {
+        "text": "베이컨 에그 데니쉬",
+        "label": "bread"
+    },
+    {
+        "text": "초코칩 스콘",
+        "label": "bread"
+    },
+    {
+        "text": "크랜베리 스콘",
+        "label": "bread"
+    },
+    {
+        "text": "데니쉬 와플",
+        "label": "bread"
+    },
+    {
+        "text": "치즈 퐁듀 바게트볼",
+        "label": "bread"
+    },
+    {
+        "text": "초콜릿 카라멜 바게트볼",
+        "label": "bread"
+    },
+    {
+        "text": "허니바게트볼",
+        "label": "bread"
+    },
+    {
+        "text": "머쉬룸 수프볼",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 크림치즈 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "치즈베이글&크림치즈",
+        "label": "bread"
+    },
+    {
+        "text": "플레인 베이글&크림치즈",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 베이글&크림치즈",
+        "label": "bread"
+    },
+    {
+        "text": "콘 소시지",
+        "label": "bread"
+    },
+    {
+        "text": "소시지 치즈 롤",
+        "label": "bread"
+    },
+    {
+        "text": "콘 치즈",
+        "label": "bread"
+    },
+    {
+        "text": "슈크림 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "고구마 치즈 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "크로크무슈",
+        "label": "bread"
+    },
+    {
+        "text": "허니 갈릭 부기브레드",
+        "label": "bread"
+    },
+    {
+        "text": "스윗 칠리 부기브레드",
+        "label": "bread"
+    },
+    {
+        "text": "미니 허니브레드 _ 플레인",
+        "label": "bread"
+    },
+    {
+        "text": "미니 허니브레드 _ 초코",
+        "label": "bread"
+    },
+    {
+        "text": "미니 허니브레드 _ 카라멜",
+        "label": "bread"
+    },
+    {
+        "text": "미니 허니브레드 _ 녹차",
+        "label": "bread"
+    },
+    {
+        "text": "컬러 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "버터 카야 토스트",
+        "label": "bread"
+    },
+    {
+        "text": "카야토스트",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 토스트",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈 프레즐",
+        "label": "bread"
+    },
+    {
+        "text": "오리지널 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "어니언 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "렐리쉬 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "화이트 렐리쉬 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "할리피뇨치즈 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "시카고 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "칠리치즈 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "튜나마요 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "페퍼로니 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "어니언링 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "스파이스치킨 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "치즈불고기 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "고르곤졸라 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "치킨텐더 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈 프레즐",
+        "label": "bread"
+    },
+    {
+        "text": "벨지움 와플",
+        "label": "bread"
+    },
+    {
+        "text": "플레인 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "흑당소보루",
+        "label": "bread"
+    },
+    {
+        "text": "자꾸 생각나는 갈릭바게뜨",
+        "label": "bread"
+    },
+    {
+        "text": "흑당 가득 품은 호떡",
+        "label": "bread"
+    },
+    {
+        "text": "베사멜버섯치즈빵",
+        "label": "bread"
+    },
+    {
+        "text": "새우감자봉",
+        "label": "bread"
+    },
+    {
+        "text": "썸머 초코바나나번",
+        "label": "bread"
+    },
+    {
+        "text": "토종효모 호두브레드",
+        "label": "bread"
+    },
+    {
+        "text": "강원도 찰옥수수소보루크림빵",
+        "label": "bread"
+    },
+    {
+        "text": "초코 왕소라빵 플러스",
+        "label": "bread"
+    },
+    {
+        "text": "미니 통밀후르츠 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "토종효모 참깨브레드",
+        "label": "bread"
+    },
+    {
+        "text": "단팔 소보루빵 플러스",
+        "label": "bread"
+    },
+    {
+        "text": "시나몬롤식빵",
+        "label": "bread"
+    },
+    {
+        "text": "미니 올리브 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리파이",
+        "label": "bread"
+    },
+    {
+        "text": "후레쉬크림샌드빵",
+        "label": "bread"
+    },
+    {
+        "text": "무설탕 멀티그레인 토스트",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈시나몬롤",
+        "label": "bread"
+    },
+    {
+        "text": "골든스윗토스트",
+        "label": "bread"
+    },
+    {
+        "text": "꽃맛살고로케",
+        "label": "bread"
+    },
+    {
+        "text": "꿀슈크림빵",
+        "label": "bread"
+    },
+    {
+        "text": "명품 잡채고로케",
+        "label": "bread"
+    },
+    {
+        "text": "몬스터 치즈번",
+        "label": "bread"
+    },
+    {
+        "text": "찰진 호박 찜케익",
+        "label": "bread"
+    },
+    {
+        "text": "64겹 골든페스츄리",
+        "label": "bread"
+    },
+    {
+        "text": "오리엔탈 치킨봉",
+        "label": "bread"
+    },
+    {
+        "text": "토종효모 통밀가득 로만밀브레드",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈롤파이",
+        "label": "bread"
+    },
+    {
+        "text": "모닝바게뜨",
+        "label": "bread"
+    },
+    {
+        "text": "미니크라상",
+        "label": "bread"
+    },
+    {
+        "text": "옛날 왕슈크림도넛",
+        "label": "bread"
+    },
+    {
+        "text": "건포도 토종효모빵",
+        "label": "bread"
+    },
+    {
+        "text": "토종효모 참 부드러운 생크림 식빵",
+        "label": "bread"
+    },
+    {
+        "text": "포켓샌드 사과",
+        "label": "bread"
+    },
+    {
+        "text": "그린티 본델리슈",
+        "label": "bread"
+    },
+    {
+        "text": "뽀드득 그릴 소시지",
+        "label": "bread"
+    },
+    {
+        "text": "치즈파니니",
+        "label": "bread"
+    },
+    {
+        "text": "돌돌 말린 소시지도넛",
+        "label": "bread"
+    },
+    {
+        "text": "플레인 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "데니쉬식빵",
+        "label": "bread"
+    },
+    {
+        "text": "스위트 밀크식빵",
+        "label": "bread"
+    },
+    {
+        "text": "모닝토스트",
+        "label": "bread"
+    },
+    {
+        "text": "야채빵",
+        "label": "bread"
+    },
+    {
+        "text": "사각피자빵",
+        "label": "bread"
+    },
+    {
+        "text": "찹쌀도넛",
+        "label": "bread"
+    },
+    {
+        "text": "모찌모찌 치즈스틱",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈찹쌀도넛",
+        "label": "bread"
+    },
+    {
+        "text": "아몬드모닝",
+        "label": "bread"
+    },
+    {
+        "text": "오리지널머핀",
+        "label": "bread"
+    },
+    {
+        "text": "정통크라상",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리머핀",
+        "label": "bread"
+    },
+    {
+        "text": "찹쌀페스츄리도넛",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈곡물페스츄리",
+        "label": "bread"
+    },
+    {
+        "text": "소시지조리빵",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리베이글",
+        "label": "bread"
+    },
+    {
+        "text": "꽈배기도넛",
+        "label": "bread"
+    },
+    {
+        "text": "치즈 인 치즈",
+        "label": "bread"
+    },
+    {
+        "text": "통곡물브레드",
+        "label": "bread"
+    },
+    {
+        "text": "토종효모 우리쌀 식빵",
+        "label": "bread"
+    },
+    {
+        "text": "초코칩트위스트",
+        "label": "bread"
+    },
+    {
+        "text": "미니 통밀 후르츠 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "토종효모 호두 호밀식빵",
+        "label": "bread"
+    },
+    {
+        "text": "바게뜨",
+        "label": "bread"
+    },
+    {
+        "text": "미니찹쌀도넛",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리크림치즈페스츄리",
+        "label": "bread"
+    },
+    {
+        "text": "별난고구마찰스틱",
+        "label": "bread"
+    },
+    {
+        "text": "크로크무슈",
+        "label": "bread"
+    },
+    {
+        "text": "토종효모 단호박검은깨식빵",
+        "label": "bread"
+    },
+    {
+        "text": "토종효모 옥수수 식빵",
+        "label": "bread"
+    },
+    {
+        "text": "초코츄잉스타",
+        "label": "bread"
+    },
+    {
+        "text": "미니초코칩트위스트",
+        "label": "bread"
+    },
+    {
+        "text": "햄에그 고로케",
+        "label": "bread"
+    },
+    {
+        "text": "초코소보루빵",
+        "label": "bread"
+    },
+    {
+        "text": "목초란으로 만든 핑거스틱",
+        "label": "bread"
+    },
+    {
+        "text": "추억의 소시지빵",
+        "label": "bread"
+    },
+    {
+        "text": "쏘야고로케",
+        "label": "bread"
+    },
+    {
+        "text": "단팥크림 코팡",
+        "label": "bread"
+    },
+    {
+        "text": "144겹 파이만주",
+        "label": "bread"
+    },
+    {
+        "text": "까망베르 치즈후레쉬번",
+        "label": "bread"
+    },
+    {
+        "text": "치즈소시지페스츄리",
+        "label": "bread"
+    },
+    {
+        "text": "갈릭페스츄리식빵",
+        "label": "bread"
+    },
+    {
+        "text": "부드러운 연유브레드",
+        "label": "bread"
+    },
+    {
+        "text": "딸기에 물든 치즈달",
+        "label": "bread"
+    },
+    {
+        "text": "순수秀우유크림빵",
+        "label": "bread"
+    },
+    {
+        "text": "포켓샌드딸기요거티",
+        "label": "bread"
+    },
+    {
+        "text": "포켓샌드 땅콩",
+        "label": "bread"
+    },
+    {
+        "text": "고구마건포도롤",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈호두빵",
+        "label": "bread"
+    },
+    {
+        "text": "밤롤브레드",
+        "label": "bread"
+    },
+    {
+        "text": "커피번",
+        "label": "bread"
+    },
+    {
+        "text": "우리찹쌀 모카 찰떡빵",
+        "label": "bread"
+    },
+    {
+        "text": "구름크림빵",
+        "label": "bread"
+    },
+    {
+        "text": "모카빵",
+        "label": "bread"
+    },
+    {
+        "text": "초코소라빵",
+        "label": "bread"
+    },
+    {
+        "text": "땅콩크림빵",
+        "label": "bread"
+    },
+    {
+        "text": "모카크림빵",
+        "label": "bread"
+    },
+    {
+        "text": "단팥빵",
+        "label": "bread"
+    },
+    {
+        "text": "소보루빵",
+        "label": "bread"
+    },
+    {
+        "text": "골든 크림 메론빵",
+        "label": "bread"
+    },
+    {
+        "text": "맘모스브레드",
+        "label": "bread"
+    },
+    {
+        "text": "구운부추만두빵",
+        "label": "bread"
+    },
+    {
+        "text": "단팥빵 플러스",
+        "label": "bread"
+    },
+    {
+        "text": "화이트 치즈볼",
+        "label": "bread"
+    },
+    {
+        "text": "바나나 컵케익",
+        "label": "bread"
+    },
+    {
+        "text": "슈크림빵",
+        "label": "bread"
+    },
+    {
+        "text": "완두앙금빵",
+        "label": "bread"
+    },
+    {
+        "text": "찹쌀앙금빵",
+        "label": "bread"
+    },
+    {
+        "text": "코코넛 초코볼",
+        "label": "bread"
+    },
+    {
+        "text": "카스테라구마",
+        "label": "bread"
+    },
+    {
+        "text": "스트로베리 요거트무스",
+        "label": "bread"
+    },
+    {
+        "text": "스트로베리 요거트무스 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "키즈스토리 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "바스크 치즈케이크",
+        "label": "bread"
+    },
+    {
+        "text": "리얼캐롯",
+        "label": "bread"
+    },
+    {
+        "text": "러브러브초코",
+        "label": "bread"
+    },
+    {
+        "text": "꽃밭에서 붕붕벌",
+        "label": "bread"
+    },
+    {
+        "text": "리얼캐롯 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "마카롱쇼콜라",
+        "label": "bread"
+    },
+    {
+        "text": "스페셜",
+        "label": "bread"
+    },
+    {
+        "text": "에뚜아르쇼콜라",
+        "label": "bread"
+    },
+    {
+        "text": "축하",
+        "label": "bread"
+    },
+    {
+        "text": "스트로벨벳치즈케이크",
+        "label": "bread"
+    },
+    {
+        "text": "카카오초코앤딸기",
+        "label": "bread"
+    },
+    {
+        "text": "까망베르&초코브라우니",
+        "label": "bread"
+    },
+    {
+        "text": "벨기에 밀크쇼콜라",
+        "label": "bread"
+    },
+    {
+        "text": "딸기&치즈케이크",
+        "label": "bread"
+    },
+    {
+        "text": "벨기에밀크쇼콜라 ",
+        "label": "bread"
+    },
+    {
+        "text": "벨기에 화이트초코",
+        "label": "bread"
+    },
+    {
+        "text": "호두아몬드커플",
+        "label": "bread"
+    },
+    {
+        "text": "스트로베리 서프라이즈",
+        "label": "bread"
+    },
+    {
+        "text": "호두아몬드파티",
+        "label": "bread"
+    },
+    {
+        "text": "순수秀우유케이크",
+        "label": "bread"
+    },
+    {
+        "text": "내가찾던 카페모카 커플",
+        "label": "bread"
+    },
+    {
+        "text": "가나슈 조각케이크",
+        "label": "bread"
+    },
+    {
+        "text": "내가찾던 카페모카 가족",
+        "label": "bread"
+    },
+    {
+        "text": "초코반딸기반케이크",
+        "label": "bread"
+    },
+    {
+        "text": "마이넘버원2",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리요거트 듬뿍",
+        "label": "bread"
+    },
+    {
+        "text": "티라미수 오리지날레",
+        "label": "bread"
+    },
+    {
+        "text": "블루밍러브케이크",
+        "label": "bread"
+    },
+    {
+        "text": "가나슈생크림 조각케이크",
+        "label": "bread"
+    },
+    {
+        "text": "초코앤화이트마블쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "치즈 조각케이크",
+        "label": "bread"
+    },
+    {
+        "text": "촉촉하고부드러운초코쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "딸기요거트케이크",
+        "label": "bread"
+    },
+    {
+        "text": "라인프렌즈 브라운",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리요거트 조각케이크",
+        "label": "bread"
+    },
+    {
+        "text": "쿠키앤크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "무지개와 노래하는 뽀로로",
+        "label": "bread"
+    },
+    {
+        "text": "라인프렌즈 코니",
+        "label": "bread"
+    },
+    {
+        "text": "베리베리 생크림 조각케이크",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "꼬마버스 타요",
+        "label": "bread"
+    },
+    {
+        "text": "체크무늬 조각케이크",
+        "label": "bread"
+    },
+    {
+        "text": "행복해 티라미수케이크",
+        "label": "bread"
+    },
+    {
+        "text": "딸기마카롱 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "노래하는 뽀로로와 친구들",
+        "label": "bread"
+    },
+    {
+        "text": "미니치즈케이크",
+        "label": "bread"
+    },
+    {
+        "text": "치즈케이크",
+        "label": "bread"
+    },
+    {
+        "text": "밤&자색고구마케이크",
+        "label": "bread"
+    },
+    {
+        "text": "부드러운호박고구마 조각케이크",
+        "label": "bread"
+    },
+    {
+        "text": "고구마케이크",
+        "label": "bread"
+    },
+    {
+        "text": "부드러운호박고구마 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "부드러운 녹차고구마",
+        "label": "bread"
+    },
+    {
+        "text": "브라운과 코니의 하트시그널",
+        "label": "bread"
+    },
+    {
+        "text": "리얼 쁘띠 블루베리 쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "포도 카스텔라",
+        "label": "bread"
+    },
+    {
+        "text": "초코파운드케익",
+        "label": "bread"
+    },
+    {
+        "text": "피크닉롤",
+        "label": "bread"
+    },
+    {
+        "text": "제주 녹차 롤케익",
+        "label": "bread"
+    },
+    {
+        "text": "플레인스콘",
+        "label": "bread"
+    },
+    {
+        "text": "실키롤케익",
+        "label": "bread"
+    },
+    {
+        "text": "콰트로 치즈 스콘",
+        "label": "bread"
+    },
+    {
+        "text": "호두파운드케익",
+        "label": "bread"
+    },
+    {
+        "text": "앙버터 스콘",
+        "label": "bread"
+    },
+    {
+        "text": "정통 파운드케익",
+        "label": "bread"
+    },
+    {
+        "text": "미니 흑당 카스테라",
+        "label": "bread"
+    },
+    {
+        "text": "무지개 카스테라",
+        "label": "bread"
+    },
+    {
+        "text": "호두파이",
+        "label": "bread"
+    },
+    {
+        "text": "흑당 라떼 카스테라",
+        "label": "bread"
+    },
+    {
+        "text": "산딸기 듬뿍 롤케익",
+        "label": "bread"
+    },
+    {
+        "text": "마블 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "카페모카롤케익",
+        "label": "bread"
+    },
+    {
+        "text": "카페모카 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "엔젤 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "미스 베어",
+        "label": "bread"
+    },
+    {
+        "text": "미니바움쿠헨",
+        "label": "bread"
+    },
+    {
+        "text": "쉬림프 토마토 포카챠",
+        "label": "bread"
+    },
+    {
+        "text": "에그포테이토샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "햄치즈 잉글리쉬 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "바싹 불고기포카챠",
+        "label": "bread"
+    },
+    {
+        "text": "토마토를 올린 햄치즈크라상",
+        "label": "bread"
+    },
+    {
+        "text": "호밀 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "트러플오일 크로크무슈",
+        "label": "bread"
+    },
+    {
+        "text": "크랜베리 치킨호밀샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "에그샐러드샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "디럭스 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "또띠아 치킨텐더 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "햄&코올슬로 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "런치 플러스 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "소시지 또띠아",
+        "label": "bread"
+    },
+    {
+        "text": "에그쉬림프",
+        "label": "bread"
+    },
+    {
+        "text": "통밀 디럭스샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "와사비크랩볼",
+        "label": "bread"
+    },
+    {
+        "text": "미니버거",
+        "label": "bread"
+    },
+    {
+        "text": "BLT 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "매콤 닭강정 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "B.E.L.T 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "시저치킨 샐러드랩",
+        "label": "bread"
+    },
+    {
+        "text": "케이준치킨 샐러드랩",
+        "label": "bread"
+    },
+    {
+        "text": "통살 치킨버거",
+        "label": "bread"
+    },
+    {
+        "text": "햄치즈 바게뜨",
+        "label": "bread"
+    },
+    {
+        "text": "불고기 바게뜨",
+        "label": "bread"
+    },
+    {
+        "text": "치킨클럽 3단 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "미니버거 믹스박스",
+        "label": "bread"
+    },
+    {
+        "text": "클래식 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "멜팅치즈 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "그랑데 리얼가나슈",
+        "label": "bread"
+    },
+    {
+        "text": "콰트로 치즈 범벅 타르트",
+        "label": "bread"
+    },
+    {
+        "text": "후레쉬슈",
+        "label": "bread"
+    },
+    {
+        "text": "리얼가나슈",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈&인절미 타르트",
+        "label": "bread"
+    },
+    {
+        "text": "도라야끼",
+        "label": "bread"
+    },
+    {
+        "text": "티라미수 타르트",
+        "label": "bread"
+    },
+    {
+        "text": "호두듬뿍타르트",
+        "label": "bread"
+    },
+    {
+        "text": "보스턴 브라우니 타르트",
+        "label": "bread"
+    },
+    {
+        "text": "조각호두파이",
+        "label": "bread"
+    },
+    {
+        "text": "롱스틱파이",
+        "label": "bread"
+    },
+    {
+        "text": "에디가 구워준 뽀롱뽀롱 초코 마들렌",
+        "label": "bread"
+    },
+    {
+        "text": "앙팡 마들렌",
+        "label": "bread"
+    },
+    {
+        "text": "핑크퐁 아기상어 요거트케익",
+        "label": "bread"
+    },
+    {
+        "text": "루피가 구워준 뽀롱뽀롱 마들렌 치즈",
+        "label": "bread"
+    },
+    {
+        "text": "뽀로로가 좋아하는 딸기 키즈케익",
+        "label": "bread"
+    },
+    {
+        "text": "우유가 좋은 뽀로로케익",
+        "label": "bread"
+    },
+    {
+        "text": "바나나가 좋은 에디케익",
+        "label": "bread"
+    },
+    {
+        "text": "스테이크 & 치즈 아보카도 랩",
+        "label": "bread"
+    },
+    {
+        "text": "쉬림프 에그마요 랩",
+        "label": "bread"
+    },
+    {
+        "text": "치킨 베이컨 미니 랩",
+        "label": "bread"
+    },
+    {
+        "text": "베이컨 웨지 미니 랩",
+        "label": "bread"
+    },
+    {
+        "text": "라즈베리 치즈케익",
+        "label": "bread"
+    },
+    {
+        "text": "1955 버거",
+        "label": "bread"
+    },
+    {
+        "text": "베이컨 토마토 디럭스",
+        "label": "bread"
+    },
+    {
+        "text": "맥스파이시® 상하이 버거",
+        "label": "bread"
+    },
+    {
+        "text": "슈슈 버거",
+        "label": "bread"
+    },
+    {
+        "text": "빅맥®",
+        "label": "bread"
+    },
+    {
+        "text": "더블 1955 버거",
+        "label": "bread"
+    },
+    {
+        "text": "골든 에그 치즈버거",
+        "label": "bread"
+    },
+    {
+        "text": "그릴드 머쉬룸 버거",
+        "label": "bread"
+    },
+    {
+        "text": "더블 불고기 버거",
+        "label": "bread"
+    },
+    {
+        "text": "에그 불고기 버거",
+        "label": "bread"
+    },
+    {
+        "text": "불고기 버거",
+        "label": "bread"
+    },
+    {
+        "text": "슈비 버거",
+        "label": "bread"
+    },
+    {
+        "text": "더블 쿼터파운더™ 치즈",
+        "label": "bread"
+    },
+    {
+        "text": "쿼터파운더™ 치즈",
+        "label": "bread"
+    },
+    {
+        "text": "메가맥",
+        "label": "bread"
+    },
+    {
+        "text": "크리스피 오리엔탈 치킨버거",
+        "label": "bread"
+    },
+    {
+        "text": "치즈버거",
+        "label": "bread"
+    },
+    {
+        "text": "더블 치즈버거",
+        "label": "bread"
+    },
+    {
+        "text": "햄버거",
+        "label": "bread"
+    },
+    {
+        "text": "에그 맥머핀",
+        "label": "bread"
+    },
+    {
+        "text": "베이컨 에그 맥머핀",
+        "label": "bread"
+    },
+    {
+        "text": "소시지 에그 맥머핀",
+        "label": "bread"
+    },
+    {
+        "text": "베이컨 토마토 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "소시지 맥머핀",
+        "label": "bread"
+    },
+    {
+        "text": "상하이 치킨 스낵랩",
+        "label": "bread"
+    },
+    {
+        "text": "핫케익",
+        "label": "bread"
+    },
+    {
+        "text": "애플 파이",
+        "label": "bread"
+    },
+    {
+        "text": "콘파이",
+        "label": "bread"
+    },
+    {
+        "text": "뉴올리언스 치킨버거",
+        "label": "bread"
+    },
+    {
+        "text": "BLT 뉴올리언스치킨버거",
+        "label": "bread"
+    },
+    {
+        "text": "더블베이컨토마토비프",
+        "label": "bread"
+    },
+    {
+        "text": "더블와퍼",
+        "label": "bread"
+    },
+    {
+        "text": "더블해쉬불고기",
+        "label": "bread"
+    },
+    {
+        "text": "더블트러플머쉬룸와퍼주니어",
+        "label": "bread"
+    },
+    {
+        "text": "롱치킨디럭스",
+        "label": "bread"
+    },
+    {
+        "text": "롱치킨버거",
+        "label": "bread"
+    },
+    {
+        "text": "BLT 롱치킨버거",
+        "label": "bread"
+    },
+    {
+        "text": "메가몬스터X",
+        "label": "bread"
+    },
+    {
+        "text": "몬스터X",
+        "label": "bread"
+    },
+    {
+        "text": "몬스터와퍼",
+        "label": "bread"
+    },
+    {
+        "text": "몬스터와퍼주니어",
+        "label": "bread"
+    },
+    {
+        "text": "밸런스 치킨버거",
+        "label": "bread"
+    },
+    {
+        "text": "베이컨치즈와퍼",
+        "label": "bread"
+    },
+    {
+        "text": "불고기롱치킨버거",
+        "label": "bread"
+    },
+    {
+        "text": "불고기버거",
+        "label": "bread"
+    },
+    {
+        "text": "불고기와퍼",
+        "label": "bread"
+    },
+    {
+        "text": "불고기와퍼주니어",
+        "label": "bread"
+    },
+    {
+        "text": "비프칠리통모짜X",
+        "label": "bread"
+    },
+    {
+        "text": "비프칠리통모짜와퍼",
+        "label": "bread"
+    },
+    {
+        "text": "와퍼",
+        "label": "bread"
+    },
+    {
+        "text": "와퍼주니어",
+        "label": "bread"
+    },
+    {
+        "text": "치즈버거",
+        "label": "bread"
+    },
+    {
+        "text": "치즈와퍼",
+        "label": "bread"
+    },
+    {
+        "text": "치즈와퍼주니어",
+        "label": "bread"
+    },
+    {
+        "text": "콰트로치즈와퍼",
+        "label": "bread"
+    },
+    {
+        "text": "콰트로치즈와퍼주니어",
+        "label": "bread"
+    },
+    {
+        "text": "통다리치킨버거",
+        "label": "bread"
+    },
+    {
+        "text": "BLT통다리치킨버거",
+        "label": "bread"
+    },
+    {
+        "text": "통모짜X",
+        "label": "bread"
+    },
+    {
+        "text": "통모짜와퍼",
+        "label": "bread"
+    },
+    {
+        "text": "통모짜와퍼주니어",
+        "label": "bread"
+    },
+    {
+        "text": "통새우스테이크버거",
+        "label": "bread"
+    },
+    {
+        "text": "통새우와퍼",
+        "label": "bread"
+    },
+    {
+        "text": "통새우와퍼주니어",
+        "label": "bread"
+    },
+    {
+        "text": "트러플 통모짜X",
+        "label": "bread"
+    },
+    {
+        "text": "트러플 통모짜와퍼",
+        "label": "bread"
+    },
+    {
+        "text": "트러플머쉬룸X",
+        "label": "bread"
+    },
+    {
+        "text": "트러플머쉬룸와퍼",
+        "label": "bread"
+    },
+    {
+        "text": "트러플머쉬룸와퍼주니어",
+        "label": "bread"
+    },
+    {
+        "text": "햄버거",
+        "label": "bread"
+    },
+    {
+        "text": "베이컨 크루아상",
+        "label": "bread"
+    },
+    {
+        "text": "에그 크루아상",
+        "label": "bread"
+    },
+    {
+        "text": "햄 크루아상",
+        "label": "bread"
+    },
+    {
+        "text": "살사리코버거",
+        "label": "bread"
+    },
+    {
+        "text": "언빌리버블버거",
+        "label": "bread"
+    },
+    {
+        "text": "인크레더블버거",
+        "label": "bread"
+    },
+    {
+        "text": "치즈베이컨버거",
+        "label": "bread"
+    },
+    {
+        "text": "딥치즈버거",
+        "label": "bread"
+    },
+    {
+        "text": "불싸이버거",
+        "label": "bread"
+    },
+    {
+        "text": "화이트갈릭버거",
+        "label": "bread"
+    },
+    {
+        "text": "디럭스불고기버거",
+        "label": "bread"
+    },
+    {
+        "text": "싸이버거",
+        "label": "bread"
+    },
+    {
+        "text": "휠렛버거",
+        "label": "bread"
+    },
+    {
+        "text": "햄치즈휠렛버거",
+        "label": "bread"
+    },
+    {
+        "text": "할라피뇨 통살버거",
+        "label": "bread"
+    },
+    {
+        "text": "통새우버거",
+        "label": "bread"
+    },
+    {
+        "text": "불고기버거",
+        "label": "bread"
+    },
+    {
+        "text": "에그랩",
+        "label": "bread"
+    },
+    {
+        "text": "베이컨에그랩",
+        "label": "bread"
+    },
+    {
+        "text": "휠랩",
+        "label": "bread"
+    },
+    {
+        "text": "징거버거",
+        "label": "bread"
+    },
+    {
+        "text": "타워버거",
+        "label": "bread"
+    },
+    {
+        "text": "트위스터",
+        "label": "bread"
+    },
+    {
+        "text": "징거더블다운맥스",
+        "label": "bread"
+    },
+    {
+        "text": "핫치즈징거버거",
+        "label": "bread"
+    },
+    {
+        "text": "치킨불고기버거",
+        "label": "bread"
+    },
+    {
+        "text": "블랙라벨폴인치즈버거",
+        "label": "bread"
+    },
+    {
+        "text": "블랙라벨클래식버거",
+        "label": "bread"
+    },
+    {
+        "text": "트리플리치오리지널버거",
+        "label": "bread"
+    },
+    {
+        "text": "오리지널타워버거",
+        "label": "bread"
+    },
+    {
+        "text": "블랙라벨에그타워버거",
+        "label": "bread"
+    },
+    {
+        "text": "에그타르트",
+        "label": "bread"
+    },
+    {
+        "text": "콘타르트",
+        "label": "bread"
+    },
+    {
+        "text": "뉴 비스켓",
+        "label": "bread"
+    },
+    {
+        "text": "스키피 피넛버터 스트로베리",
+        "label": "bread"
+    },
+    {
+        "text": "스키피 피넛버터 츄이스티",
+        "label": "bread"
+    },
+    {
+        "text": "스키피 피넛버터 먼치킨",
+        "label": "bread"
+    },
+    {
+        "text": "가을을 속삭이는 밤",
+        "label": "bread"
+    },
+    {
+        "text": "버터 올드훼션드 먼치킨",
+        "label": "bread"
+    },
+    {
+        "text": "노르망디 버터밀크바",
+        "label": "bread"
+    },
+    {
+        "text": "노르망디 버터크림필드",
+        "label": "bread"
+    },
+    {
+        "text": "솔티드 카라멜 필드",
+        "label": "bread"
+    },
+    {
+        "text": "솔티드 카라멜 앤 피넛",
+        "label": "bread"
+    },
+    {
+        "text": "흑당 쫄킹",
+        "label": "bread"
+    },
+    {
+        "text": "옥수로 잘익은 콘트위스트",
+        "label": "bread"
+    },
+    {
+        "text": "옥수로 맛있는 콘바이츠",
+        "label": "bread"
+    },
+    {
+        "text": "허쉬 초코 먼치킨",
+        "label": "bread"
+    },
+    {
+        "text": "올드훼션드 먼치킨",
+        "label": "bread"
+    },
+    {
+        "text": "먼치킨",
+        "label": "bread"
+    },
+    {
+        "text": "보스톤 크림",
+        "label": "bread"
+    },
+    {
+        "text": "올드훼션드 글레이즈드",
+        "label": "bread"
+    },
+    {
+        "text": "던킨 글레이즈드",
+        "label": "bread"
+    },
+    {
+        "text": "올리브 츄이스티",
+        "label": "bread"
+    },
+    {
+        "text": "카푸치노 츄이스티",
+        "label": "bread"
+    },
+    {
+        "text": "사랑에 빠진 하트",
+        "label": "bread"
+    },
+    {
+        "text": "던킨 카페모카롤",
+        "label": "bread"
+    },
+    {
+        "text": "허니후리터",
+        "label": "bread"
+    },
+    {
+        "text": "아몬드초코크런치",
+        "label": "bread"
+    },
+    {
+        "text": "카카오하니딥",
+        "label": "bread"
+    },
+    {
+        "text": "허니찹쌀스틱",
+        "label": "bread"
+    },
+    {
+        "text": "카카오 후로스티드",
+        "label": "bread"
+    },
+    {
+        "text": "스트로베리 먼치킨",
+        "label": "bread"
+    },
+    {
+        "text": "오리지널케익먼치킨",
+        "label": "bread"
+    },
+    {
+        "text": "카카오하니딥먼치킨",
+        "label": "bread"
+    },
+    {
+        "text": "바바리안먼치킨",
+        "label": "bread"
+    },
+    {
+        "text": "멀티그레인 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "소시지 인 치즈 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "치즈 인 치즈 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리베이글",
+        "label": "bread"
+    },
+    {
+        "text": "플레인베이글",
+        "label": "bread"
+    },
+    {
+        "text": "스키피 피넛버터 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "녹차 초코칩 머핀",
+        "label": "bread"
+    },
+    {
+        "text": "아메리칸 콘 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "카카오팬브라우니",
+        "label": "bread"
+    },
+    {
+        "text": "비프칠리핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "브리오슈핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "페스츄리 그릴드치즈",
+        "label": "bread"
+    },
+    {
+        "text": "웨이크업랩",
+        "label": "bread"
+    },
+    {
+        "text": "페스츄리 크로크무슈",
+        "label": "bread"
+    },
+    {
+        "text": "치킨 머쉬룸 플랫브레드",
+        "label": "bread"
+    },
+    {
+        "text": "스파이시 치킨 치아바타",
+        "label": "bread"
+    },
+    {
+        "text": "베이컨에그 잉글리쉬머핀",
+        "label": "bread"
+    },
+    {
+        "text": "햄에그 잉글리쉬머핀",
+        "label": "bread"
+    },
+    {
+        "text": "그릭슈바인소시지로만든모짜렐라핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "연유 버터 라우겐",
+        "label": "bread"
+    },
+    {
+        "text": "볼매 연유크림 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "옥수수 범벅",
+        "label": "bread"
+    },
+    {
+        "text": "고메 미트볼 고로케",
+        "label": "bread"
+    },
+    {
+        "text": "골든 고구마 패스트리",
+        "label": "bread"
+    },
+    {
+        "text": "반반모스",
+        "label": "bread"
+    },
+    {
+        "text": "황금파이만주",
+        "label": "bread"
+    },
+    {
+        "text": "오리지날 뺑오레쟁",
+        "label": "bread"
+    },
+    {
+        "text": "바통쉬크레",
+        "label": "bread"
+    },
+    {
+        "text": "크리스피쇼콜라",
+        "label": "bread"
+    },
+    {
+        "text": "초코호두 브리오쉬",
+        "label": "bread"
+    },
+    {
+        "text": "흑미 찹쌀 토스트 식빵",
+        "label": "bread"
+    },
+    {
+        "text": "고메버터식빵",
+        "label": "bread"
+    },
+    {
+        "text": "통우유식빵",
+        "label": "bread"
+    },
+    {
+        "text": "사르르 고구마 케이크 빵",
+        "label": "bread"
+    },
+    {
+        "text": "생크림 만난 마롱 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "초코칩트위스트",
+        "label": "bread"
+    },
+    {
+        "text": "슈크림소보로",
+        "label": "bread"
+    },
+    {
+        "text": "새콤달콤 유자파이",
+        "label": "bread"
+    },
+    {
+        "text": "생크림 듬뿍 망고 패스트리",
+        "label": "bread"
+    },
+    {
+        "text": "요거크림 듬뿍 블루베리 패스트리",
+        "label": "bread"
+    },
+    {
+        "text": "크림 듬뿍 파이슈",
+        "label": "bread"
+    },
+    {
+        "text": "치킨마요브레드",
+        "label": "bread"
+    },
+    {
+        "text": "부추잡채고로케",
+        "label": "bread"
+    },
+    {
+        "text": "골든피치패스트리",
+        "label": "bread"
+    },
+    {
+        "text": "청포도패스트리",
+        "label": "bread"
+    },
+    {
+        "text": "TLJ 옥수수 듬뿍 옥수수식빵",
+        "label": "bread"
+    },
+    {
+        "text": "소금버터빵",
+        "label": "bread"
+    },
+    {
+        "text": "빵속에리얼초코",
+        "label": "bread"
+    },
+    {
+        "text": "아몬드보스톡",
+        "label": "bread"
+    },
+    {
+        "text": "카라멜러스크",
+        "label": "bread"
+    },
+    {
+        "text": "NEW어니언소시지포카치아",
+        "label": "bread"
+    },
+    {
+        "text": "크림가득 인절미 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "오리지널뺑오쇼콜라",
+        "label": "bread"
+    },
+    {
+        "text": "NEW단팥소보로",
+        "label": "bread"
+    },
+    {
+        "text": "후레쉬 크림빵",
+        "label": "bread"
+    },
+    {
+        "text": "호두 연유 바게트",
+        "label": "bread"
+    },
+    {
+        "text": "오리지널 크라상",
+        "label": "bread"
+    },
+    {
+        "text": "프랑보아즈 아몬드 크라상",
+        "label": "bread"
+    },
+    {
+        "text": "통큰양파빵",
+        "label": "bread"
+    },
+    {
+        "text": "퀸즈 브리오쉬 브레드",
+        "label": "bread"
+    },
+    {
+        "text": "핫도그패스트리",
+        "label": "bread"
+    },
+    {
+        "text": "오리지널 생크림 크라상",
+        "label": "bread"
+    },
+    {
+        "text": "스윗 갈릭킹",
+        "label": "bread"
+    },
+    {
+        "text": "낙엽소시지브레드",
+        "label": "bread"
+    },
+    {
+        "text": "동글동글순치즈",
+        "label": "bread"
+    },
+    {
+        "text": "카페 카야번",
+        "label": "bread"
+    },
+    {
+        "text": "순우유브레드",
+        "label": "bread"
+    },
+    {
+        "text": "뉴패스트리도넛",
+        "label": "bread"
+    },
+    {
+        "text": "땅콩크림밀크브레드",
+        "label": "bread"
+    },
+    {
+        "text": "허니밀크브레드",
+        "label": "bread"
+    },
+    {
+        "text": "순꿀 호떡",
+        "label": "bread"
+    },
+    {
+        "text": "추억의 옥수수소보로",
+        "label": "bread"
+    },
+    {
+        "text": "NEW 빵 속에 순치즈",
+        "label": "bread"
+    },
+    {
+        "text": "NEW 빵 속에 순우유",
+        "label": "bread"
+    },
+    {
+        "text": "순 애플링",
+        "label": "bread"
+    },
+    {
+        "text": "크랜베리애플크림치즈",
+        "label": "bread"
+    },
+    {
+        "text": "겹겹이 밀크롤인",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈브레드",
+        "label": "bread"
+    },
+    {
+        "text": "잡곡고구마찹쌀브레드",
+        "label": "bread"
+    },
+    {
+        "text": "메론빵",
+        "label": "bread"
+    },
+    {
+        "text": "NEW 블루베리 크림치즈",
+        "label": "bread"
+    },
+    {
+        "text": "단팥앙금롤브레드",
+        "label": "bread"
+    },
+    {
+        "text": "동글동글순우유롤",
+        "label": "bread"
+    },
+    {
+        "text": "부드러운후레쉬크림샌드빵",
+        "label": "bread"
+    },
+    {
+        "text": "깨찰빵",
+        "label": "bread"
+    },
+    {
+        "text": "호두가오독오독씹히는단팥빵",
+        "label": "bread"
+    },
+    {
+        "text": "땅콩크림소보로",
+        "label": "bread"
+    },
+    {
+        "text": "연유크림만난단팥빵",
+        "label": "bread"
+    },
+    {
+        "text": "초코가나슈크림빵",
+        "label": "bread"
+    },
+    {
+        "text": "슈크림빵",
+        "label": "bread"
+    },
+    {
+        "text": "단팥빵",
+        "label": "bread"
+    },
+    {
+        "text": "소보로빵",
+        "label": "bread"
+    },
+    {
+        "text": "완두앙금빵",
+        "label": "bread"
+    },
+    {
+        "text": "초코소라빵",
+        "label": "bread"
+    },
+    {
+        "text": "까까웨뜨",
+        "label": "bread"
+    },
+    {
+        "text": "겹겹이 치즈스틱",
+        "label": "bread"
+    },
+    {
+        "text": "팥과 크림이 꽉찬 크리미 단팥",
+        "label": "bread"
+    },
+    {
+        "text": "TLJ 옥수수식빵",
+        "label": "bread"
+    },
+    {
+        "text": "모카패스트리식빵",
+        "label": "bread"
+    },
+    {
+        "text": "호박패스트리식빵",
+        "label": "bread"
+    },
+    {
+        "text": "롤치즈식빵",
+        "label": "bread"
+    },
+    {
+        "text": "밤식빵",
+        "label": "bread"
+    },
+    {
+        "text": "데니쉬식빵",
+        "label": "bread"
+    },
+    {
+        "text": "딸기잼 듬뿍 미니식빵",
+        "label": "bread"
+    },
+    {
+        "text": "데일리 우유식빵",
+        "label": "bread"
+    },
+    {
+        "text": "열두가지 곡물식빵",
+        "label": "bread"
+    },
+    {
+        "text": "바로굽는 토스트식빵",
+        "label": "bread"
+    },
+    {
+        "text": "호박검은깨식빵",
+        "label": "bread"
+    },
+    {
+        "text": "깨찰도넛",
+        "label": "bread"
+    },
+    {
+        "text": "프리미엄단팥도넛",
+        "label": "bread"
+    },
+    {
+        "text": "렛츠트위스트",
+        "label": "bread"
+    },
+    {
+        "text": "옥수수트위스트",
+        "label": "bread"
+    },
+    {
+        "text": "엄마랑장볼때먹던 그때그도나쓰",
+        "label": "bread"
+    },
+    {
+        "text": "슈거글레이즈드도넛",
+        "label": "bread"
+    },
+    {
+        "text": "딸기마카롱도넛",
+        "label": "bread"
+    },
+    {
+        "text": "롱스틱초코도넛",
+        "label": "bread"
+    },
+    {
+        "text": "초코마카롱도넛",
+        "label": "bread"
+    },
+    {
+        "text": "바바리안크림도넛",
+        "label": "bread"
+    },
+    {
+        "text": "스트로베리쨈도넛",
+        "label": "bread"
+    },
+    {
+        "text": "깜파뉴속의리얼초코",
+        "label": "bread"
+    },
+    {
+        "text": "몽블랑패스트리",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈데니쉬",
+        "label": "bread"
+    },
+    {
+        "text": "NEW 파이스틱",
+        "label": "bread"
+    },
+    {
+        "text": "고구마파이",
+        "label": "bread"
+    },
+    {
+        "text": "밤패스트리",
+        "label": "bread"
+    },
+    {
+        "text": "에그타르트",
+        "label": "bread"
+    },
+    {
+        "text": "블랙올리브치즈브레드",
+        "label": "bread"
+    },
+    {
+        "text": "바게트토스트",
+        "label": "bread"
+    },
+    {
+        "text": "건포도빵",
+        "label": "bread"
+    },
+    {
+        "text": "순꿀 바게트",
+        "label": "bread"
+    },
+    {
+        "text": "프랑스바게트",
+        "label": "bread"
+    },
+    {
+        "text": "마늘스틱",
+        "label": "bread"
+    },
+    {
+        "text": "호두바게트",
+        "label": "bread"
+    },
+    {
+        "text": "플레인베이글",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리베이글",
+        "label": "bread"
+    },
+    {
+        "text": "어니언베이글",
+        "label": "bread"
+    },
+    {
+        "text": "통밀빵",
+        "label": "bread"
+    },
+    {
+        "text": "미니치즈롤",
+        "label": "bread"
+    },
+    {
+        "text": "치즈듬뿍 순꿀꽃",
+        "label": "bread"
+    },
+    {
+        "text": "소시지카레양파빵",
+        "label": "bread"
+    },
+    {
+        "text": "미니데니쉬",
+        "label": "bread"
+    },
+    {
+        "text": "사각후랑크패스트리",
+        "label": "bread"
+    },
+    {
+        "text": "감자 베이컨 롤",
+        "label": "bread"
+    },
+    {
+        "text": "추억의 사라다 고로케",
+        "label": "bread"
+    },
+    {
+        "text": "트윈에그브레드",
+        "label": "bread"
+    },
+    {
+        "text": "피자토스트",
+        "label": "bread"
+    },
+    {
+        "text": "폭신폭신모닝롤",
+        "label": "bread"
+    },
+    {
+        "text": "후랑크패스트리",
+        "label": "bread"
+    },
+    {
+        "text": "사르르 초코 생크림 쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "우리유자 롤케이크",
+        "label": "bread"
+    },
+    {
+        "text": "볼빨간 사과 생크림",
+        "label": "bread"
+    },
+    {
+        "text": "부드러운 고구마 라떼 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "크레이프 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "바닐라 초코 하트",
+        "label": "bread"
+    },
+    {
+        "text": "떠먹는 쿠키앤크림 볼",
+        "label": "bread"
+    },
+    {
+        "text": "러브 블루베리 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "클래식모카케이크",
+        "label": "bread"
+    },
+    {
+        "text": "흑당 카스테라",
+        "label": "bread"
+    },
+    {
+        "text": "사르르~ 생크림 쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "오!해피 복숭아 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "채석장에 간 띠띠뽀와 디젤",
+        "label": "bread"
+    },
+    {
+        "text": "브라우니 쿠키샌드",
+        "label": "bread"
+    },
+    {
+        "text": "띠띠뽀의 기차마을",
+        "label": "bread"
+    },
+    {
+        "text": "클래식 롤케이크",
+        "label": "bread"
+    },
+    {
+        "text": "클래식 딸기잼 롤케이크",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 더블크림 롤케이크",
+        "label": "bread"
+    },
+    {
+        "text": "그랑드카페모카 롤케이크",
+        "label": "bread"
+    },
+    {
+        "text": "더블초코 롤케이크",
+        "label": "bread"
+    },
+    {
+        "text": "제주첫물녹차 롤케이크",
+        "label": "bread"
+    },
+    {
+        "text": "허니월넛 롤케이크",
+        "label": "bread"
+    },
+    {
+        "text": "달콤 밤만주",
+        "label": "bread"
+    },
+    {
+        "text": "우리 유자 카스테라",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "클래식 파운드",
+        "label": "bread"
+    },
+    {
+        "text": "호두 파운드",
+        "label": "bread"
+    },
+    {
+        "text": "클래식 카스테라",
+        "label": "bread"
+    },
+    {
+        "text": "제주 첫물녹차 카스테라",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "초코쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "그린티쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "초코생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "초코생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리하트케이크",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "초코쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "그린티쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "초코생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "요거딸기생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "순매직베리케이크",
+        "label": "bread"
+    },
+    {
+        "text": "순매직딸기케이크",
+        "label": "bread"
+    },
+    {
+        "text": "스윗소원상자",
+        "label": "bread"
+    },
+    {
+        "text": "티라미수 타르트",
+        "label": "bread"
+    },
+    {
+        "text": "유자 치즈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "클라우드 쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "까망쿠키 치즈케이크",
+        "label": "bread"
+    },
+    {
+        "text": "스트로베리 치즈 스퀘어",
+        "label": "bread"
+    },
+    {
+        "text": "골든애플롤",
+        "label": "bread"
+    },
+    {
+        "text": "수플레치즈타임",
+        "label": "bread"
+    },
+    {
+        "text": "즐거운 초코바나나 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "초코 골드 레이어 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈타르트",
+        "label": "bread"
+    },
+    {
+        "text": "쁘띠 복숭아 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "클라우드 스트로베리 치즈케이크",
+        "label": "bread"
+    },
+    {
+        "text": "쇼콜라 갸또",
+        "label": "bread"
+    },
+    {
+        "text": "트윙클 초코별 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "더블 초코 스퀘어",
+        "label": "bread"
+    },
+    {
+        "text": "러브 브라우니 초코케이크",
+        "label": "bread"
+    },
+    {
+        "text": "고구마 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "엔젤 프레즈 쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "모찌모찌 그린티",
+        "label": "bread"
+    },
+    {
+        "text": "쇼콜라더롤라운드케이크",
+        "label": "bread"
+    },
+    {
+        "text": "티라미수롤",
+        "label": "bread"
+    },
+    {
+        "text": "곰돌이와함께하는파티케이크",
+        "label": "bread"
+    },
+    {
+        "text": "클래식치즈케이크",
+        "label": "bread"
+    },
+    {
+        "text": "마스카포네티라미수",
+        "label": "bread"
+    },
+    {
+        "text": "아이스박스케이크",
+        "label": "bread"
+    },
+    {
+        "text": "케이크속에순우유",
+        "label": "bread"
+    },
+    {
+        "text": "고구마티라미스를만나다",
+        "label": "bread"
+    },
+    {
+        "text": "사랑을전하는가나슈케익",
+        "label": "bread"
+    },
+    {
+        "text": "달콤화이트초코케익",
+        "label": "bread"
+    },
+    {
+        "text": "순우유딸기무스",
+        "label": "bread"
+    },
+    {
+        "text": "스위트러브초코",
+        "label": "bread"
+    },
+    {
+        "text": "호두파이",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "티라미슈",
+        "label": "bread"
+    },
+    {
+        "text": "딸기티라미슈",
+        "label": "bread"
+    },
+    {
+        "text": "클래식치즈케이크",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "달콤화이트초코케이크",
+        "label": "bread"
+    },
+    {
+        "text": "러브스트로베리케이크",
+        "label": "bread"
+    },
+    {
+        "text": "하트앤하트케이크",
+        "label": "bread"
+    },
+    {
+        "text": "러브앤초코케이크",
+        "label": "bread"
+    },
+    {
+        "text": "로맨틱홀리데이",
+        "label": "bread"
+    },
+    {
+        "text": "클래식녹차케이크",
+        "label": "bread"
+    },
+    {
+        "text": "달콤밀크초코케익",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "생크림케이크",
+        "label": "bread"
+    },
+    {
+        "text": "다크초코스퀘어",
+        "label": "bread"
+    },
+    {
+        "text": "우리쌀케익",
+        "label": "bread"
+    },
+    {
+        "text": "카페플라워",
+        "label": "bread"
+    },
+    {
+        "text": "천사가전하는달콤초코하트케이크",
+        "label": "bread"
+    },
+    {
+        "text": "하트를듬뿍담은쇼콜라스퀘어",
+        "label": "bread"
+    },
+    {
+        "text": "초코패밀리케익",
+        "label": "bread"
+    },
+    {
+        "text": "클래식녹차케이크 피스",
+        "label": "bread"
+    },
+    {
+        "text": "마스카포네티라미수피스",
+        "label": "bread"
+    },
+    {
+        "text": "디어마이프린세스",
+        "label": "bread"
+    },
+    {
+        "text": "뚜레쥬르 휭거마드레느",
+        "label": "bread"
+    },
+    {
+        "text": "미니호두파이",
+        "label": "bread"
+    },
+    {
+        "text": "녹차카스테라",
+        "label": "bread"
+    },
+    {
+        "text": "허니 카스테라",
+        "label": "bread"
+    },
+    {
+        "text": "부드러운 카스테라",
+        "label": "bread"
+    },
+    {
+        "text": "베이비슈",
+        "label": "bread"
+    },
+    {
+        "text": "쁘띠치즈머핀",
+        "label": "bread"
+    },
+    {
+        "text": "쁘띠초코머핀",
+        "label": "bread"
+    },
+    {
+        "text": "리얼브라우니",
+        "label": "bread"
+    },
+    {
+        "text": "떠먹는 쁘띠 티라미수",
+        "label": "bread"
+    },
+    {
+        "text": "맛있게 뜯어먹는 순우유 쉬폰",
+        "label": "bread"
+    },
+    {
+        "text": "BBQ 치킨 치아바타",
+        "label": "bread"
+    },
+    {
+        "text": "쉬림프카츠 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "추억의 옛날토스트",
+        "label": "bread"
+    },
+    {
+        "text": "프리미엄 매콤 치킨버거",
+        "label": "bread"
+    },
+    {
+        "text": "통밀 크랜베리치킨 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "단호박 새송이 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "크랜베리치킨패스트리",
+        "label": "bread"
+    },
+    {
+        "text": "치즈어니언치킨샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "단호박 호두강정 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "통밀 크랜베리치킨 & 단호박 호두강정 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "단호박 호두강정 & 뉴통밀후레쉬 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "크랜베리치킨 & 아삭햄치즈 패스트리",
+        "label": "bread"
+    },
+    {
+        "text": "베이컨에그브리오쉬",
+        "label": "bread"
+    },
+    {
+        "text": "스크램블에그브리오쉬",
+        "label": "bread"
+    },
+    {
+        "text": "그릴드 떡갈비 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "브레드 브륄레",
+        "label": "bread"
+    },
+    {
+        "text": "햄치즈 토스트",
+        "label": "bread"
+    },
+    {
+        "text": "치킨 클럽 퀘사디아",
+        "label": "bread"
+    },
+    {
+        "text": "치킨텐더 밸런스 랩",
+        "label": "bread"
+    },
+    {
+        "text": "바질치킨 통밀 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "브리치즈 크라상 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "싱그러운 치킨텐더 그린 랩",
+        "label": "bread"
+    },
+    {
+        "text": "비프 불고기 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "리얼미트 칠리핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "몬테 크리스토",
+        "label": "bread"
+    },
+    {
+        "text": "프리미엄 크래미샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "로제치킨 밸런스 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "에그쉬림프 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "NEW 시그니쳐샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "맛살 프레쉬 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "감자&맛살 2 IN 1",
+        "label": "bread"
+    },
+    {
+        "text": "B.E.L.T 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "햄&포테이토샐러드 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "에그& 감자 사라다 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "통밀 후레쉬 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "함박미니버거샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "햄치즈&에그샐러드샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "TLJ치킨클럽샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "손보다 빅버거",
+        "label": "bread"
+    },
+    {
+        "text": "바베큐 치킨마요 롤피자",
+        "label": "bread"
+    },
+    {
+        "text": "치즈가득크로크무슈",
+        "label": "bread"
+    },
+    {
+        "text": "핫 오믈렛 라이스머핀",
+        "label": "bread"
+    },
+    {
+        "text": "어니언 햄 & 치즈 베이글 샌드위치",
+        "label": "bread"
+    },
+    {
+        "text": "헬로우 미키미니",
+        "label": "bread"
+    },
+    {
+        "text": "핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "초코무스케익",
+        "label": "bread"
+    },
+    {
+        "text": "치즈케익",
+        "label": "bread"
+    },
+    {
+        "text": "카라멜크로넛",
+        "label": "bread"
+    },
+    {
+        "text": "치즈 스틱케이크",
+        "label": "bread"
+    },
+    {
+        "text": "초코 스틱케이크",
+        "label": "bread"
+    },
+    {
+        "text": "레드벨벳 스틱케이크",
+        "label": "bread"
+    },
+    {
+        "text": "캐롯 스틱케이크",
+        "label": "bread"
+    },
+    {
+        "text": "코코넛망고 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "그린파라다이스 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "스윗체리초코 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "딸기마니아 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "초코무스 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "초코티라미수",
+        "label": "bread"
+    },
+    {
+        "text": "수플레치즈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 요거트 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "까망베르크런치 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "돌체티라미수",
+        "label": "bread"
+    },
+    {
+        "text": "뉴욕치즈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "오레오크림치즈 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "당근파운드 케이크",
+        "label": "bread"
+    },
+    {
+        "text": "다크초코 롤케익",
+        "label": "bread"
+    },
+    {
+        "text": "스윗밀크 롤케익",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 롤케익",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 크레이프 케익",
+        "label": "bread"
+    },
+    {
+        "text": "딸기 크레이프 케익",
+        "label": "bread"
+    },
+    {
+        "text": "밀크 크레이프 케익",
+        "label": "bread"
+    },
+    {
+        "text": "초코스콘",
+        "label": "bread"
+    },
+    {
+        "text": "플레인스콘",
+        "label": "bread"
+    },
+    {
+        "text": "잉글리쉬머핀",
+        "label": "bread"
+    },
+    {
+        "text": "건포도 스콘",
+        "label": "bread"
+    },
+    {
+        "text": "모카번",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리머핀",
+        "label": "bread"
+    },
+    {
+        "text": "치즈머핀",
+        "label": "bread"
+    },
+    {
+        "text": "오리지널 매콤치즈 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "오리지널 치즈 핫도그",
+        "label": "bread"
+    },
+    {
+        "text": "블루베리 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "어니언 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "치즈 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "플레인 베이글",
+        "label": "bread"
+    },
+    {
+        "text": "크림치즈 프렛즐",
+        "label": "bread"
+    },
+    {
+        "text": "허니버터볼",
+        "label": "bread"
+    },
+    {
+        "text": "갈릭브레드",
+        "label": "bread"
+    },
+    {
+        "text": "허니버터브레드",
+        "label": "bread"
+    },
+    {
+        "text": "크로크무슈",
+        "label": "bread"
+    },
+    {
+        "text": "햄에그 치아바타",
+        "label": "bread"
+    },
+    {
+        "text": "불고기 치아바타",
+        "label": "bread"
+    },
+    {
+        "text": "치킨먹물 치아바타",
+        "label": "bread"
+    },
+    {
+        "text": "치킨브리또",
+        "label": "bread"
+    },
+    {
+        "text": "소시지브리또",
+        "label": "bread"
+    },
+    {
+        "text": "불고기브리또",
+        "label": "bread"
+    },
+    {
+        "text": "불고기베이크",
+        "label": "bread"
+    },
+    {
+        "text": "소세지 프레즐",
+        "label": "bread"
+    }
+]
